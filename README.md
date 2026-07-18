@@ -1,4 +1,4 @@
-# IIC2413 - Base de Datos 2026-1
+# IIC2413 - Base de Datos 2026-2
 
 ## Tabla de contenidos
 
