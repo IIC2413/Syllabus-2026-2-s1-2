@@ -100,7 +100,7 @@ cada etapa es el siguiente: E1 = 30pts, E2 = 30pts, E3 = 40pts. El puntaje final
 
 $PT = \sum_{i=1}^{3} E_i$
 
-b) El puntaje ponderado del proyecto $PP = PT ∗ f$, donde $f$ corresponde al factor de asistencia a ayudantías, que se calcula según la siguiente tabla:
+b) El valor de $f$ corresponde al factor de asistencia a ayudantías, que se calcula según la siguiente tabla:
 
 Asistencia | $f$
 -------- | -------
@@ -110,8 +110,8 @@ Asistencia | $f$
 70% a 99%   | 1
 100%   | 1,05
 
-c) Prueba final $p$ de logro de competencias. Para aprobar el proyecto, se debe obtener un puntaje >= 60% en esta prueba. 
-La nota final del proyecto $P$ se calcula según:
+c) Prueba final $p$ de logro de competencias. Para aprobar el proyecto, se debe obtener un puntaje >= 60% en esta prueba. El factor de la prueba $pp$ se calcula de la siguiente forma:
+
 
 
 $$
