@@ -121,7 +121,7 @@ pp =
 \end{cases}
 ```
 
-d) La nota final del proyecto se calcula de la siguiente forma
+d) La nota final del proyecto $P$ se calcula de la siguiente forma
 
 $$
 P = PT \cdot f \cdot pp
@@ -172,9 +172,9 @@ Los/as estudiantes de la Escuela de Ingeniería de la Pontificia Universidad Cat
 
 Específicamente, para los cursos del Departamento de Ciencia de la Computación, rige obligatoriamente la siguiente política de integridad académica. Todo trabajo presentado por un/a estudiante para los efectos de la evaluación de un curso debe ser hecho individualmente por el/la estudiante, sin apoyo en material de terceros.  Por “trabajo” se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros.
 
-Todo trabajo presentado por un/a estudiante para los efectos de la evaluación de un curso debe ser hecho por el/la estudiante. El/la estudiante es \textbf{responsable de originar el material entregado y de conocer íntegramente su contenido}. Asimismo, deberá respetar estrictamente las condiciones definidas por el curso para cada trabajo (por ejemplo, si el trabajo es individual, grupal, y si se permite o no el uso de material digital o de asistentes de inteligencia artificial). Por “trabajo” se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros.
+Todo trabajo presentado por un/a estudiante para los efectos de la evaluación de un curso debe ser hecho por el/la estudiante. El/la estudiante es **responsable de originar el material entregado y de conocer íntegramente su contenido**. Asimismo, deberá respetar estrictamente las condiciones definidas por el curso para cada trabajo (por ejemplo, si el trabajo es individual, grupal, y si se permite o no el uso de material digital o de asistentes de inteligencia artificial). Por “trabajo” se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros.
 
-Si un/a estudiante incurre en una falta a la integridad académica, como, por ejemplo, entregando trabajo que no es propio, no comprendiendo íntegramente el trabajo entregado, o no cumpliendo con las condiciones establecidas por el curso, \textbf{obtendrá nota final 1.1 en el curso} y se solicitará a la Dirección de Pregrado de la Escuela de Ingeniería que no le permita retirar el curso de la carga académica semestral. En todos los casos, se informará a la Comisión de Integridad Académica de la Escuela de Ingeniería para que tome sanciones adicionales si lo estima pertinente.
+Si un/a estudiante incurre en una falta a la integridad académica, como, por ejemplo, entregando trabajo que no es propio, no comprendiendo íntegramente el trabajo entregado, o no cumpliendo con las condiciones establecidas por el curso, **obtendrá nota final 1.1 en el curso** y se solicitará a la Dirección de Pregrado de la Escuela de Ingeniería que no le permita retirar el curso de la carga académica semestral. En todos los casos, se informará a la Comisión de Integridad Académica de la Escuela de Ingeniería para que tome sanciones adicionales si lo estima pertinente.
 
 En caso de utilización de fuentes digitales como Wikipedia o el uso de asistentes inteligentes como ChatGPT o Copilot, cuando se permita su uso, debe declararse de forma explícita el material o herramienta usada, su propósito y forma que influyó en el trabajo realizado. En caso de uso de asistentes de inteligencia artificial, el/la estudiante sigue siendo responsable de comprender, verificar, explicar y defender todo el contenido
 presentado. El profesor/a del curso puede verificar en cualquier momento el entendimiento por parte del estudiante del contenido entregado y que se entreguen los respaldos sobre su utilización (por ejemplo, historial o logs).
@@ -188,9 +188,9 @@ autorizados y cuáles no.
 | Interrogaciones | No permitido¹ |
 | Proyecto | Permitido² |
 
-¹ No permitido: El uso de IA no está autorizado, dado que la actividad busca evaluar exclusivamente el desempeño individual sin apoyo de herramientas automatizadas.
+<sub>¹ No permitido: El uso de IA no está autorizado, dado que la actividad busca evaluar exclusivamente el desempeño individual sin apoyo de herramientas automatizadas.<sub>
 
-² Permitido: El uso de IA es aceptado como apoyo general, sin constituir un requisito para el desarrollo de la actividad.
+<sub>² Permitido: El uso de IA es aceptado como apoyo general, sin constituir un requisito para el desarrollo de la actividad.<sub>
 
 Lo anterior se entiende como complemento al Reglamento del Estudiante de la Pontificia Universidad Católica de Chile (https://registrosacademicos.uc.cl/reglamentos/estudiantiles/).  Por ello, es posible pedir a la Universidad la aplicación de sanciones adicionales especificadas en dicho reglamento.
  
