@@ -2,17 +2,16 @@
 
 ## Tabla de contenidos
 
-- [IIC2413 - Base de Datos 2026-1](#iic2413---base-de-datos-2026-1)
+- [IIC2413 - Base de Datos 2026-2](#iic2413---base-de-datos-2026-2)
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Equipo](#equipo)
     - [Profesores](#profesores)
     - [Cuerpo de ayudantes](#cuerpo-de-ayudantes)
-      - [Coordinadores](#Coordinadores)
+      - [Coordinadores](#coordinadores)
       - [Ayudantes](#ayudantes)
     - [Bibliografía](#bibliografía)
   - [Calendario Evaluaciones](#calendario-evaluaciones)
     - [Cátedra](#cátedra)
-    - [Proyecto](#proyecto-tentativo)
     - [Ayudantías (tentativo)](#ayudantías-tentativo)
   - [Evaluación](#evaluación)
     - [Aprobación del curso](#aprobación-del-curso)
@@ -36,49 +35,22 @@ Christian Alvarez   | 2       | [cal@uc.cl]
 
 Nombre           | Rol                 | Email
 ---------------- |-------------------- | ----------------
-Sofía Retamales  | Coordinadora Cátedra             | [sretamales@uc.cl]
+Giuliana Tirachini  | Coordinadora Cátedra             | [giuliana.tirachini@uc.cl]
 Gabriel Segovia | Coordinador Proyecto                  | [gesegovia@uc.cl]
-Alinna Vidal  | Bienestar Sección 1 | [alinna.vidal@uc.cl]
-Patricio Acevedo | Bienestar Sección 2 | [psacevedo@uc.cl]
+Por Definir  | Bienestar Sección 1 | [na@uc.cl]
+Por Definir | Bienestar Sección 2 | [na@uc.cl]
 
 #### Ayudantes
 Nombre           | Rol | Email
 ---------------- | ------------ | ----------------
-Waldo Seguel  | Cátedra | waldo.seguel@uc.cl
-Sebastian Bartesaghi | Cátedra | sebastian.bartesaghi@uc.cl
-Daniel Navarro | Cátedra | daniel.navarro@uc.cl
-Matías Retamales | Cátedra | miretamales@uc.cl
-Giuliana Tirachini | Cátedra | giuliana.tirachini@uc.cl
-Agustín Consolo | Cátedra | aconsolo@uc.cl
-Daniel Salgado | Proyecto  | daniel_salgado@uc.cl
-Maximiliano Santibáñez | Proyecto | max.santibanez@uc.cl
-Francisca Matte | Proyecto | francisca.matte@uc.cl
-Antonia Sierra | Proyecto | asierra2@uc.cl
-Francisco Cornejo | Proyecto | fcornejoq@estudiante.uc.cl
-Francisca Ortiz | Proyecto | fiortiz@uc.cl
+
 
 
 [eb@uc.cl]:mailto:eb@uc.cl
 [cal@uc.cl]:mailto:cal@uc.cl
 
-[sretamales@uc.cl]:mailto:sretamales@uc.cl
-[gesegovia@uc.cl]:mailto:gesegovia@uc.cl
-[alinna.vidal@uc.cl]:mailto:alinna.vidal@uc.cl
-[psacevedo@uc.cl]:mailto:psacevedo@uc.cl
-
-[waldo.seguel@uc.cl]:mailto:waldo.seguel@uc.cl
-[sebastian.bartesaghi@uc.cl]:mailto:sebastian.bartesaghi@uc.cl
-[daniel.navarro@uc.cl]:mailto:daniel.navarro@uc.cl
-[miretamales@uc.cl]:mailto:miretamales@uc.cl
 [giuliana.tirachini@uc.cl]:mailto:giuliana.tirachini@uc.cl
-[aconsolo@uc.cl]:mailto:aconsolo@uc.cl
-
-[daniel_salgado@uc.cl]:mailto:daniel_salgado@uc.cl
-[max.santibanez@uc.cl]:mailto:max.santibanez@uc.cl
-[francisca.matte@uc.cl]:mailto:francisca.matte@uc.cl
-[asierra2@uc.cl]:mailto:asierra2@uc.cl
-[fcornejoq@estudiante.uc.cl]:mailto:fcornejoq@estudiante.uc.cl
-[fiortiz@uc.cl]:mailto:fiortiz@uc.cl
+[gesegovia@uc.cl]:mailto:gesegovia@uc.cl
 
 
 
@@ -88,7 +60,7 @@ Francisca Ortiz | Proyecto | fiortiz@uc.cl
 ### Bibliografía 
 - Apuntes de clases y ayudantías.
 - Recursos de Internet entregados en clase y ayudantía.
-- Material complementario disponible en [https://github.com/IIC2413/Syllabus-2026-1-s1-2](https://github.com/IIC2413/Syllabus-2026-1-s1-2).
+- Material complementario disponible en [https://github.com/IIC2413/Syllabus-2026-2-s1-2](https://github.com/IIC2413/Syllabus-2026-2-s1-2).
 - Database Management Systems, 3rd edition, de Raghu Ramakrishnan y Johannes Gehrke, disponible en [Bibliotecas UC](https://bmdigitales-bibliotecas-uc-cl.pucdechile.idm.oclc.org/html5/DATABASE%20MANAGEMENT%20SYSTEMS/).
 
 ---
@@ -99,39 +71,15 @@ Francisca Ortiz | Proyecto | fiortiz@uc.cl
 
 Fecha                  | Hora | Evaluación
 -----------------------| ------- | ------------
-**08 - 05 - 2026** |  17:30   | I1
-**19 - 06 - 2026** |  17:30   | I2
-**08 - 07 - 2026** |  13:30  | Examen
-
-### Proyecto
-
-Fecha                  | Evaluación
------------------------|------------
-12 - 03 - 2026 | Enunciado General
-01 - 04 - 2026 | Enunciado E1
-20 - 04 - 2026 | Entrega E1
-28 - 04 - 2026 | Enunciado E2
-12 - 05 - 2026 | Entrega E2
-25 - 05 - 2026 | Enunciado E3
-11- 06 - 2026 | Entrega E3
-24 - 06 - 2026 | Prueba Proyecto 
+**26 - 09 - 2026** |  09:00   | I1
+**18 - 11 - 2026** |  17:30   | I2
+**04 - 12 - 2026** |  17:30  | Examen
 
 
 ### Ayudantías (tentativo)
 Fecha                  | # Ayudantía | Tema
 -----------------------|------------|------
-13 - 03 - 2026 (V) | 1 | Álgebra relacional
-20 - 03 - 2026 (V) | 2 | Modelo ER
-27 - 03 - 2026 (V) | 3 | Formas Normales
-10- 04 - 2026 (V) | 4 | SQL
-17 - 04 - 2026 (V) | 5 | Ubuntu, PostgreSQL
-24 - 04 - 2026 (V) | 6 | Limpieza + IC
-06 - 05 - 2026 (W) | 7 | Repaso I1
-08 - 05 - 2026 (V) | 8 | Tx
-15 - 05 - 2026 (V) | 9 | PHP + Web
-29 - 05 - 2026 (V) | 10 | Por definir
-05 - 06 - 2026 (V) | 11 | Por definir
-17 - 06 - 2026 (W) | 12 | Repaso I2
+
 
 ---
 
@@ -165,13 +113,20 @@ Asistencia | $f$
 c) Prueba final $p$ de logro de competencias. Para aprobar el proyecto, se debe obtener un puntaje >= 60% en esta prueba. 
 La nota final del proyecto $P$ se calcula según:
 
-```math
-P =
+
+$$
+pp =
 \begin{cases}
-PP \cdot 6 + 1, & \text{si } p \ge 60\% \\
-1, & \text{si } p < 60\%
+1{,}0 & \text{si } p \geq 60\% \\
+0 & \text{si } p < 60\%
 \end{cases}
-```
+$$
+
+d) La nota final del proyecto se calcula de la siguiente forma
+
+$$
+P = PT \cdot f \cdot pp
+$$
 
 La nota de presentación al examen $(NP)$ se calculará como:
 
@@ -205,7 +160,7 @@ El curso se aprueba si, y solo si, todas las siguiente condiciones se cumplen:
 
 En caso de no aprobar, la nota final del curso se calculará como Min{ **NF**, 3,9 }.
 
-IMPORTANTE: La recorrección final es SOLO PRESENCIAL el lunes 13 de julio.
+IMPORTANTE: La recorrección final es SOLO PRESENCIAL el lunes 14 de diciembre.
 
 
 ---
@@ -218,13 +173,25 @@ Los/as estudiantes de la Escuela de Ingeniería de la Pontificia Universidad Cat
 
 Específicamente, para los cursos del Departamento de Ciencia de la Computación, rige obligatoriamente la siguiente política de integridad académica. Todo trabajo presentado por un/a estudiante para los efectos de la evaluación de un curso debe ser hecho individualmente por el/la estudiante, sin apoyo en material de terceros.  Por “trabajo” se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros.
 
-En particular, si un/a estudiante copia un trabajo, o si a un/a estudiante se le prueba que compró o intentó comprar un trabajo, obtendrá nota final 1.1 en el curso y se solicitará a la Dirección de Pregrado de la Escuela de Ingeniería que no le permita retirar el curso de la carga académica semestral.
+Todo trabajo presentado por un/a estudiante para los efectos de la evaluación de un curso debe ser hecho por el/la estudiante. El/la estudiante es \textbf{responsable de originar el material entregado y de conocer íntegramente su contenido}. Asimismo, deberá respetar estrictamente las condiciones definidas por el curso para cada trabajo (por ejemplo, si el trabajo es individual, grupal, y si se permite o no el uso de material digital o de asistentes de inteligencia artificial). Por “trabajo” se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros.
 
-Por “copia” se entiende incluir en el trabajo presentado como propio, partes hechas por otra persona. En caso que corresponda a “copia” a otros estudiantes, la sanción anterior se aplicará a todos los involucrados.  En todos los casos, se informará a la Dirección de Pregrado de la Escuela de Ingeniería para que tome sanciones adicionales si lo estima conveniente.
+Si un/a estudiante incurre en una falta a la integridad académica, como, por ejemplo, entregando trabajo que no es propio, no comprendiendo íntegramente el trabajo entregado, o no cumpliendo con las condiciones establecidas por el curso, \textbf{obtendrá nota final 1.1 en el curso} y se solicitará a la Dirección de Pregrado de la Escuela de Ingeniería que no le permita retirar el curso de la carga académica semestral. En todos los casos, se informará a la Comisión de Integridad Académica de la Escuela de Ingeniería para que tome sanciones adicionales si lo estima pertinente.
 
-También se entiende por copia extraer contenido sin modificarlo sustancialmente desde fuentes digitales como Wikipedia o mediante el uso de asistentes inteligentes como ChatGPT o Copilot. Se entiende que una modificación sustancial involucra el análisis crítico de la información extraída y en consecuencia todas las modificaciones y mejoras que de este análisis se desprendan. Cualquiera sea el caso, el uso de fuentes bibliográficas, digitales o asistentes debe declararse de forma explícita, y debe indicarse cómo el/la estudiante mejoró la información extraída para cumplir con los objetivos de la actividad evaluativa.
+En caso de utilización de fuentes digitales como Wikipedia o el uso de asistentes inteligentes como ChatGPT o Copilot, cuando se permita su uso, debe declararse de forma explícita el material o herramienta usada, su propósito y forma que influyó en el trabajo realizado. En caso de uso de asistentes de inteligencia artificial, el/la estudiante sigue siendo responsable de comprender, verificar, explicar y defender todo el contenido
+presentado. El profesor/a del curso puede verificar en cualquier momento el entendimiento por parte del estudiante del contenido entregado y que se entreguen los respaldos sobre su utilización (por ejemplo, historial o logs).
 
-Obviamente, está permitido usar material disponible públicamente, por ejemplo, libros o contenidos tomados de Internet, siempre y cuando se incluya la referencia correspondiente.
+De manera general, a continuación se define el nivel de uso de Inteligencia Artificial en cada tipo de evaluación
+del curso. Los enunciados de cada evaluación específica detallarán con mayor precisión qué usos están
+autorizados y cuáles no.
+
+| **Tipo de evaluación** | **Nivel de uso** |
+|---|---|
+| Interrogaciones | No permitido¹ |
+| Proyecto | Permitido² |
+
+¹ No permitido: El uso de IA no está autorizado, dado que la actividad busca evaluar exclusivamente el desempeño individual sin apoyo de herramientas automatizadas.
+
+² Permitido: El uso de IA es aceptado como apoyo general, sin constituir un requisito para el desarrollo de la actividad.
 
 Lo anterior se entiende como complemento al Reglamento del Estudiante de la Pontificia Universidad Católica de Chile (https://registrosacademicos.uc.cl/reglamentos/estudiantiles/).  Por ello, es posible pedir a la Universidad la aplicación de sanciones adicionales especificadas en dicho reglamento.
  

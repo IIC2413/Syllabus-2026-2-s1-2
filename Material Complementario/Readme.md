@@ -12,6 +12,7 @@ REPOSITORIOS AÑOS ANTERIORES
 - [Repositorio 2024-2](https://github.com/IIC2413/Syllabus-2024-2)
 - [Repositorio 2025-1](https://github.com/IIC2413/Syllabus-2025-1)
 - [Repositorio 2025-2](https://github.com/IIC2413/Syllabus-2025-2)
+- [Repositorio 2026-1](https://github.com/IIC2413/Syllabus-2026-1-s1-2)
 
 MATERIAL DE REFERENCIA
 
