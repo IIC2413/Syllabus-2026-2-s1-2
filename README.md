@@ -189,6 +189,7 @@ autorizados y cuáles no.
 | Proyecto | Permitido² |
 
 <sub>¹ No permitido: El uso de IA no está autorizado, dado que la actividad busca evaluar exclusivamente el desempeño individual sin apoyo de herramientas automatizadas.</sub>
+
 <sub>² Permitido: El uso de IA es aceptado como apoyo general, sin constituir un requisito para el desarrollo de la actividad.</sub>
 
 Lo anterior se entiende como complemento al Reglamento del Estudiante de la Pontificia Universidad Católica de Chile (https://registrosacademicos.uc.cl/reglamentos/estudiantiles/).  Por ello, es posible pedir a la Universidad la aplicación de sanciones adicionales especificadas en dicho reglamento.
