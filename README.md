@@ -113,14 +113,13 @@ Asistencia | $f$
 c) Prueba final $p$ de logro de competencias. Para aprobar el proyecto, se debe obtener un puntaje >= 60% en esta prueba. El factor de la prueba $pp$ se calcula de la siguiente forma:
 
 
-
-$$
+```math
 pp =
 \begin{cases}
 1{,}0 & \text{si } p \geq 60\% \\
 0 & \text{si } p < 60\%
 \end{cases}
-$$
+```
 
 d) La nota final del proyecto se calcula de la siguiente forma
 
