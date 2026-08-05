@@ -15,6 +15,7 @@
     - [Ayudantías (tentativo)](#ayudantías-tentativo)
   - [Evaluación](#evaluación)
     - [Aprobación del curso](#aprobación-del-curso)
+  - [Uso de IA](#uso-de-ia)
   - [Política de integridad académica](#política-de-integridad-académica)
   - [Compromiso del Código de Honor](#compromiso-del-código-de-honor)
 
@@ -116,8 +117,8 @@ c) Prueba final $p$ de logro de competencias. Para aprobar el proyecto, se debe 
 ```math
 pp =
 \begin{cases}
-1{,}0 & \text{si } p \geq 60\% \\
-0 & \text{si } p < 60\%
+1{,}0 & \text{si } p \geq 50\% \\
+0 & \text{si } p < 50\%
 \end{cases}
 ```
 
@@ -137,7 +138,7 @@ Se eximirán los estudiantes que cumplan todas las siguientes condiciones
 - Cada interrogación con nota mayor o igual a 4,0
 - Asistencia a ayudantías mayor o igual a 70%
 - Cada etapa del proyecto mayor o igual al 50% del puntaje de ella
-- Prueba del proyecto con puntaje mayor o igual a 60%
+- Prueba del proyecto con puntaje mayor o igual a 50%
 - $NP$ ≥ 5,3
 
 La nota final $(NF)$ se calcula como
@@ -145,7 +146,7 @@ La nota final $(NF)$ se calcula como
 ```math
 NF =
 \begin{cases}
-0{,}5 \cdot \bar{C} + 0{,}5 \cdot P, & \text{si } p \ge 60\% \\
+0{,}5 \cdot \bar{C} + 0{,}5 \cdot P, & \text{si } p \ge 50\% \\
 \min(\bar{C}, 3{,}9), & \text{en otro caso}
 \end{cases}
 ```
@@ -161,23 +162,7 @@ En caso de no aprobar, la nota final del curso se calculará como Min{ **NF**, 3
 
 IMPORTANTE: La recorrección final es SOLO PRESENCIAL el lunes 14 de diciembre.
 
-
----
-
-## Política de integridad académica
-Departamento Ciencia de la Computación
-Escuela de Ingeniería – Pontificia Universidad Católica de Chile
- 
-Los/as estudiantes de la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile deben mantener un comportamiento acorde a la Declaración de Principios de la Universidad.  En particular, se espera que mantengan altos estándares de honestidad académica.  Cualquier acto deshonesto o fraude académico está prohibido; los/as estudiantes que incurran en este tipo de acciones se exponen a un Procedimiento Sumario. Es responsabilidad de cada estudiante conocer y respetar el documento sobre Integridad Académica publicado por la Dirección de Docencia de la Escuela de Ingeniería.
-
-Específicamente, para los cursos del Departamento de Ciencia de la Computación, rige obligatoriamente la siguiente política de integridad académica. Todo trabajo presentado por un/a estudiante para los efectos de la evaluación de un curso debe ser hecho individualmente por el/la estudiante, sin apoyo en material de terceros.  Por “trabajo” se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros.
-
-Todo trabajo presentado por un/a estudiante para los efectos de la evaluación de un curso debe ser hecho por el/la estudiante. El/la estudiante es **responsable de originar el material entregado y de conocer íntegramente su contenido**. Asimismo, deberá respetar estrictamente las condiciones definidas por el curso para cada trabajo (por ejemplo, si el trabajo es individual, grupal, y si se permite o no el uso de material digital o de asistentes de inteligencia artificial). Por “trabajo” se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros.
-
-Si un/a estudiante incurre en una falta a la integridad académica, como, por ejemplo, entregando trabajo que no es propio, no comprendiendo íntegramente el trabajo entregado, o no cumpliendo con las condiciones establecidas por el curso, **obtendrá nota final 1.1 en el curso** y se solicitará a la Dirección de Pregrado de la Escuela de Ingeniería que no le permita retirar el curso de la carga académica semestral. En todos los casos, se informará a la Comisión de Integridad Académica de la Escuela de Ingeniería para que tome sanciones adicionales si lo estima pertinente.
-
-En caso de utilización de fuentes digitales como Wikipedia o el uso de asistentes inteligentes como ChatGPT o Copilot, cuando se permita su uso, debe declararse de forma explícita el material o herramienta usada, su propósito y forma que influyó en el trabajo realizado. En caso de uso de asistentes de inteligencia artificial, el/la estudiante sigue siendo responsable de comprender, verificar, explicar y defender todo el contenido
-presentado. El profesor/a del curso puede verificar en cualquier momento el entendimiento por parte del estudiante del contenido entregado y que se entreguen los respaldos sobre su utilización (por ejemplo, historial o logs).
+## Uso de IA
 
 De manera general, a continuación se define el nivel de uso de Inteligencia Artificial en cada tipo de evaluación
 del curso. Los enunciados de cada evaluación específica detallarán con mayor precisión qué usos están
@@ -191,6 +176,29 @@ autorizados y cuáles no.
 <sub>¹ No permitido: El uso de IA no está autorizado, dado que la actividad busca evaluar exclusivamente el desempeño individual sin apoyo de herramientas automatizadas.</sub>
 
 <sub>² Permitido: El uso de IA es aceptado como apoyo general, sin constituir un requisito para el desarrollo de la actividad.</sub>
+
+En caso de uso de asistentes de inteligencia artificial, el/la estudiante sigue siendo responsable de comprender, verificar, explicar y defender todo el contenido
+presentado. El equipo docente podrá solicitar explicación, defensa,
+presentación, entrevista, modificación de código/modelo/cálculo o control asociado
+para verificar el logro de aprendizajes.
+
+---
+
+## Política de integridad académica
+Departamento Ciencia de la Computación
+Escuela de Ingeniería – Pontificia Universidad Católica de Chile
+ 
+Los/as estudiantes de la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile deben mantener un comportamiento acorde a la Declaración de Principios de la Universidad.  En particular, se espera que mantengan altos estándares de honestidad académica.  Cualquier acto deshonesto o fraude académico está prohibido; los/as estudiantes que incurran en este tipo de acciones se exponen a un Procedimiento Sumario. Es responsabilidad de cada estudiante conocer y respetar el documento sobre Integridad Académica publicado por la Dirección de Docencia de la Escuela de Ingeniería.
+
+Específicamente, para los cursos del Departamento de Ciencia de la Computación, rige obligatoriamente la siguiente política de integridad académica. Todo trabajo presentado por un/a estudiante para los efectos de la evaluación de un curso debe ser hecho individualmente por el/la estudiante, sin apoyo en material de terceros.  Por “trabajo” se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros.
+
+En particular, si un/a estudiante copia un trabajo, o si a un/a estudiante se le prueba que compró o intentó comprar un trabajo, obtendrá nota final 1.1 en el curso y se solicitará a la Dirección de Pregrado de la Escuela de Ingeniería que no le permita retirar el curso de la carga académica semestral.
+
+Por “copia” se entiende incluir en el trabajo presentado como propio, partes hechas por otra persona. En caso que corresponda a “copia” a otros estudiantes, la sanción anterior se aplicará a todos los involucrados.  En todos los casos, se informará a la Dirección de Pregrado de la Escuela de Ingeniería para que tome sanciones adicionales si lo estima conveniente.
+
+También se entiende por copia extraer contenido sin modificarlo sustancialmente desde fuentes digitales como Wikipedia o mediante el uso de asistentes inteligentes como ChatGPT o Copilot. Se entiende que una modificación sustancial involucra el análisis crítico de la información extraída y en consecuencia todas las modificaciones y mejoras que de este análisis se desprendan. Cualquiera sea el caso, el uso de fuentes bibliográficas, digitales o asistentes debe declararse de forma explícita, y debe indicarse cómo el/la estudiante mejoró la información extraída para cumplir con los objetivos de la actividad evaluativa.
+
+Obviamente, está permitido usar material disponible públicamente, por ejemplo, libros o contenidos tomados de Internet, siempre y cuando se incluya la referencia correspondiente.
 
 Lo anterior se entiende como complemento al Reglamento del Estudiante de la Pontificia Universidad Católica de Chile (https://registrosacademicos.uc.cl/reglamentos/estudiantiles/).  Por ello, es posible pedir a la Universidad la aplicación de sanciones adicionales especificadas en dicho reglamento.
  
