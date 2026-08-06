@@ -125,7 +125,7 @@ pp =
 d) La nota final del proyecto $P$ se calcula de la siguiente forma
 
 $$
-P = PT \cdot f \cdot pp
+P = PT \cdot f \cdot pp \cdot 0,06 + 1
 $$
 
 La nota de presentación al examen $(NP)$ se calculará como:
