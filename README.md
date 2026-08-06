@@ -154,9 +154,9 @@ NF =
 El curso se aprueba si, y solo si, todas las siguiente condiciones se cumplen:
 
 - Nota final mayor o igual a 4,0 ($NF$ ≥ 4,0).
-- Promedio de las evaluaciones de cátedra es mayor o igual a 3.9 ($\bar{C}$ ≥ 3,9)
+- Promedio de las evaluaciones de cátedra es mayor o igual a 3,9 ($\bar{C}$ ≥ 3,9)
 - Nota del proyecto mayor o igual a 3,9 ($P$ ≥ 3,9)
-- Prueba final del proyecto con puntaje mayor o igual a 60% ($p$ ≥ 60%)
+- Prueba final del proyecto con puntaje mayor o igual a 50% ($p$ ≥ 50%)
 
 En caso de no aprobar, la nota final del curso se calculará como Min{ **NF**, 3,9 }.
 
