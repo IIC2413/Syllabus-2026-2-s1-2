@@ -38,8 +38,7 @@ Nombre           | Rol                 | Email
 ---------------- |-------------------- | ----------------
 Giuliana Tirachini  | Coordinadora Cátedra             | [giuliana.tirachini@uc.cl]
 Gabriel Segovia | Coordinador Proyecto                  | [gesegovia@uc.cl]
-Por Definir  | Bienestar Sección 1 | [na@uc.cl]
-Por Definir | Bienestar Sección 2 | [na@uc.cl]
+Connan Díaz  | Bienestar Sección 1 y 2 | [ccdiaz6@uc.cl]
 
 #### Ayudantes
 Nombre           | Rol | Email
@@ -52,6 +51,7 @@ Nombre           | Rol | Email
 
 [giuliana.tirachini@uc.cl]:mailto:giuliana.tirachini@uc.cl
 [gesegovia@uc.cl]:mailto:gesegovia@uc.cl
+[ccdiaz6@uc.cl]:mailto:ccdiaz6@uc.cl
 
 
 
