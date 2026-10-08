@@ -1,195 +1,195 @@
-﻿id_equipo;rut_equipo;equipo_nombre;equipo_direccion;equipo_correo;id_estadio;estadio_nombre;estadio_direccion;estadio_capacidad;estadio_tipo_superficie
-10;60000070-5;AC Miláñez;Av. Los Deportistas 217, Valdivia;contacto@acmilanez.cl;8;Estadio El Teniente;Av. Cachapoal 950, Rancagua;14000;pasto natural
-10;60000070-5;AC Miláñez;Av. Los Deportistas 217, Valdivia;contacto@acmilanez.cl;7;Estadio Nacional Julio Martínez Prádanos;Av. Grecia 2001, Ñuñoa, Santiago;48665;pasto natural
-10;60000070-5;AC Miláñez;Av. Los Deportistas 217, Valdivia;contacto@acmilanez.cl;10;Estadio Nelson Oyarzún Arenas;Av. Collín 1250, Chillán;10000;pasto natural
-10;60000070-5;AC Miláñez;Av. Los Deportistas 217, Valdivia;contacto@acmilanez.cl;13;Estadio Parque Municipal de Valdivia;Av. Ramón Picarte 1200, Valdivia;8000;pasto sintético
-10;60000070-5;AC Miláñez;Av. Los Deportistas 217, Valdivia;contacto@acmilanez.cl;20;Estadio Santa Laura - Universidad SEK;Av. Independencia 667, Independencia, Santiago;9500;pasto natural
-10;60000070-5;AC Miláñez;Av. Los Deportistas 217, Valdivia;contacto@acmilanez.cl;2;Estadio Tierra de Campeones;Av. Balmaceda 1300, Iquique;12000;pasto natural
-13;60000091-8;Arsenal Cordillera;Av. Los Deportistas 256, Arica;contacto@arsenalcordillera.cl;1;Estadio Carlos Dittborn;Av. Comandante San Martín 400, Arica;15968;Tierra
-13;60000091-8;Arsenal Cordillera;Av. Los Deportistas 256, Arica;contacto@arsenalcordillera.cl;4;Estadio Luis Valenzuela Hermosilla;Av. Circunvalación 1200, Copiapó;12000;pasto natural
-13;60000091-8;Arsenal Cordillera;Av. Los Deportistas 256, Arica;contacto@arsenalcordillera.cl;10;Estadio Nelson Oyarzún Arenas;Av. Collín 1250, Chillán;10000;pasto natural
-13;60000091-8;Arsenal Cordillera;Av. Los Deportistas 256, Arica;contacto@arsenalcordillera.cl;13;Estadio Parque Municipal de Valdivia;Av. Ramón Picarte 1200, Valdivia;8000;pasto sintético
-13;60000091-8;Arsenal Cordillera;Av. Los Deportistas 256, Arica;contacto@arsenalcordillera.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-6;60000042-K;Bayern del Maule;Av. Los Deportistas 165, Temuco;contacto@bayerndelmaule.cl;6;Estadio Elías Figueroa Brander;Subida Cerro Placeres 2050, Valparaíso;22000;pasto natural
-6;60000042-K;Bayern del Maule;Av. Los Deportistas 165, Temuco;contacto@bayerndelmaule.cl;16;Estadio Fiscal de Punta Arenas;Av. Bulnes 1050, Punta Arenas;8000;pasto sintético
-6;60000042-K;Bayern del Maule;Av. Los Deportistas 165, Temuco;contacto@bayerndelmaule.cl;7;Estadio Nacional Julio Martínez Prádanos;Av. Grecia 2001, Ñuñoa, Santiago;48665;pasto natural
-6;60000042-K;Bayern del Maule;Av. Los Deportistas 165, Temuco;contacto@bayerndelmaule.cl;10;Estadio Nelson Oyarzún Arenas;Av. Collín 1250, Chillán;10000;pasto natural
-6;60000042-K;Bayern del Maule;Av. Los Deportistas 165, Temuco;contacto@bayerndelmaule.cl;13;Estadio Parque Municipal de Valdivia;Av. Ramón Picarte 1200, Valdivia;8000;pasto sintético
-23;60000161-2;Benfíquez SC;Av. Los Deportistas 386, Concepción;contacto@benfiquezsc.cl;11;Estadio Ester Roa Rebolledo;Av. Roosevelt 1900, Concepción;25000;pasto natural
-23;60000161-2;Benfíquez SC;Av. Los Deportistas 386, Concepción;contacto@benfiquezsc.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-23;60000161-2;Benfíquez SC;Av. Los Deportistas 386, Concepción;contacto@benfiquezsc.cl;5;Estadio La Portada;Av. Amunátegui 1350, La Serena;20624;pasto natural
-23;60000161-2;Benfíquez SC;Av. Los Deportistas 386, Concepción;contacto@benfiquezsc.cl;7;Estadio Nacional Julio Martínez Prádanos;Av. Grecia 2001, Ñuñoa, Santiago;48665;pasto natural
-23;60000161-2;Benfíquez SC;Av. Los Deportistas 386, Concepción;contacto@benfiquezsc.cl;2;Estadio Tierra de Campeones;Av. Balmaceda 1300, Iquique;12000;pasto natural
-15;60000105-1;Boca del Puerto;Av. Los Deportistas 282, Osorno;contacto@bocadelpuerto.cl;14;Estadio Chinquihue;Av. Presidente Ibáñez 1400, Puerto Montt;14200;pasto natural
-15;60000105-1;Boca del Puerto;Av. Los Deportistas 282, Osorno;contacto@bocadelpuerto.cl;8;Estadio El Teniente;Av. Cachapoal 950, Rancagua;14000;pasto natural
-15;60000105-1;Boca del Puerto;Av. Los Deportistas 282, Osorno;contacto@bocadelpuerto.cl;4;Estadio Luis Valenzuela Hermosilla;Av. Circunvalación 1200, Copiapó;12000;pasto natural
-15;60000105-1;Boca del Puerto;Av. Los Deportistas 282, Osorno;contacto@bocadelpuerto.cl;3;Estadio Regional Calvo y Bascuñán;Av. Argentina 1800, Antofagasta;16380;pasto natural
-15;60000105-1;Boca del Puerto;Av. Los Deportistas 282, Osorno;contacto@bocadelpuerto.cl;15;Estadio Regional de Coyhaique;Av. Baquedano 500, Coyhaique;5000;pasto sintético
-15;60000105-1;Boca del Puerto;Av. Los Deportistas 282, Osorno;contacto@bocadelpuerto.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-30;60000210-4;Celtic Andino;Av. Los Deportistas 477, Valdivia;contacto@celticandino.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-30;60000210-4;Celtic Andino;Av. Los Deportistas 477, Valdivia;contacto@celticandino.cl;12;Estadio Germán Becker;Av. Alemania 0660, Temuco;18000;pasto natural
-30;60000210-4;Celtic Andino;Av. Los Deportistas 477, Valdivia;contacto@celticandino.cl;13;Estadio Parque Municipal de Valdivia;Av. Ramón Picarte 1200, Valdivia;8000;pasto sintético
-31;60000210-4;Celtic Andino;Av. Los Deportistas 477, Valdivia;contacto@celticandino.cl;3;Estadio Regional Calvo y Bascuñán;Av. Argentina 1800, Antofagasta;16380;pasto natural
-5;60000035-7;Chelsea Sur;Av. Los Deportistas 152, Antofagasta;contacto@chelseasur.cl;12;Estadio Germán Becker;Av. Alemania 0660, Temuco;18000;pasto natural
-5;60000035-7;Chelsea Sur;Av. Los Deportistas 152, Antofagasta;contacto@chelseasur.cl;5;Estadio La Portada;Av. Amunátegui 1350, La Serena;20624;pasto natural
-5;60000035-7;Chelsea Sur;Av. Los Deportistas 152, Antofagasta;contacto@chelseasur.cl;4;Estadio Luis Valenzuela Hermosilla;Av. Circunvalación 1200, Copiapó;12000;pasto natural
-5;60000035-7;Chelsea Sur;Av. Los Deportistas 152, Antofagasta;contacto@chelseasur.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-20;60000140-K;Corinthios FC;Av. Los Deportistas 347, San Antonio;contacto@corinthiosfc.cl;14;Estadio Chinquihue;Av. Presidente Ibáñez 1400, Puerto Montt;14200;pasto natural
-20;60000140-K;Corinthios FC;Av. Los Deportistas 347, San Antonio;contacto@corinthiosfc.cl;6;Estadio Elías Figueroa Brander;Subida Cerro Placeres 2050, Valparaíso;22000;pasto natural
-20;60000140-K;Corinthios FC;Av. Los Deportistas 347, San Antonio;contacto@corinthiosfc.cl;16;Estadio Fiscal de Punta Arenas;Av. Bulnes 1050, Punta Arenas;8000;pasto sintético
-20;60000140-K;Corinthios FC;Av. Los Deportistas 347, San Antonio;contacto@corinthiosfc.cl;2;Estadio Tierra de Campeones;Av. Balmaceda 1300, Iquique;12000;pasto natural
-21;60000147-7;DCC UC;Vicuña Mackenna 4860;contacto@ajaxdelsur.cl;6;Estadio Elías Figueroa Brander;Subida Cerro Placeres 2050, Valparaíso;22000;pasto natural
-21;60000147-7;DCC UC;Vicuña Mackenna 4860;contacto@ajaxdelsur.cl;16;Estadio Fiscal de Punta Arenas;Av. Bulnes 1050, Punta Arenas;8000;pasto sintético
-21;60000147-7;DCC UC;Vicuña Mackenna 4860;contacto@ajaxdelsur.cl;5;Estadio La Portada;Av. Amunátegui 1350, La Serena;20624;pasto natural
-21;60000147-7;DCC UC;Vicuña Mackenna 4860;contacto@ajaxdelsur.cl;13;Estadio Parque Municipal de Valdivia;Av. Ramón Picarte 1200, Valdivia;8000;pasto sintético
-21;60000147-7;DCC UC;Vicuña Mackenna 4860;contacto@ajaxdelsur.cl;3;Estadio Regional Calvo y Bascuñán;Av. Argentina 1800, Antofagasta;16380;pasto natural
-21;60000147-7;DCC UC;Vicuña Mackenna 4860;contacto@ajaxdelsur.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-38;60000266-K;Dínamo del Norte;Av. Los Deportistas 581, Coyhaique;contacto@dinamodelnorte.cl;1;Estadio Carlos Dittborn;Av. Comandante San Martín 400, Arica;15968;Tierra
-38;60000266-K;Dínamo del Norte;Av. Los Deportistas 581, Coyhaique;contacto@dinamodelnorte.cl;8;Estadio El Teniente;Av. Cachapoal 950, Rancagua;14000;pasto natural
-38;60000266-K;Dínamo del Norte;Av. Los Deportistas 581, Coyhaique;contacto@dinamodelnorte.cl;16;Estadio Fiscal de Punta Arenas;Av. Bulnes 1050, Punta Arenas;8000;pasto sintético
-38;60000266-K;Dínamo del Norte;Av. Los Deportistas 581, Coyhaique;contacto@dinamodelnorte.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-38;60000266-K;Dínamo del Norte;Av. Los Deportistas 581, Coyhaique;contacto@dinamodelnorte.cl;12;Estadio Germán Becker;Av. Alemania 0660, Temuco;18000;pasto natural
-38;60000266-K;Dínamo del Norte;Av. Los Deportistas 581, Coyhaique;contacto@dinamodelnorte.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-12;60000084-5;Dortmundo Amarillo;Av. Los Deportistas 243, Iquique;contacto@dortmundoamarillo.cl;14;Estadio Chinquihue;Av. Presidente Ibáñez 1400, Puerto Montt;14200;pasto natural
-12;60000084-5;Dortmundo Amarillo;Av. Los Deportistas 243, Iquique;contacto@dortmundoamarillo.cl;16;Estadio Fiscal de Punta Arenas;Av. Bulnes 1050, Punta Arenas;8000;pasto sintético
-12;60000084-5;Dortmundo Amarillo;Av. Los Deportistas 243, Iquique;contacto@dortmundoamarillo.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-12;60000084-5;Dortmundo Amarillo;Av. Los Deportistas 243, Iquique;contacto@dortmundoamarillo.cl;12;Estadio Germán Becker;Av. Alemania 0660, Temuco;18000;pasto natural
-12;60000084-5;Dortmundo Amarillo;Av. Los Deportistas 243, Iquique;contacto@dortmundoamarillo.cl;5;Estadio La Portada;Av. Amunátegui 1350, La Serena;20624;pasto natural
-12;60000084-5;Dortmundo Amarillo;Av. Los Deportistas 243, Iquique;contacto@dortmundoamarillo.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-1;60000007-1;El Eterno Campeón;Av. Marathon 5301, Macul;contacto@realmadrizfc.cl;1;Estadio Carlos Dittborn;Av. Comandante San Martín 400, Arica;15968;Tierra
-1;60000007-1;El Eterno Campeón;Av. Marathon 5301, Macul;contacto@realmadrizfc.cl;16;Estadio Fiscal de Punta Arenas;Av. Bulnes 1050, Punta Arenas;8000;pasto sintético
-1;60000007-1;El Eterno Campeón;Av. Marathon 5301, Macul;contacto@realmadrizfc.cl;12;Estadio Germán Becker;Av. Alemania 0660, Temuco;18000;pasto natural
-1;60000007-1;El Eterno Campeón;Av. Marathon 5301, Macul;contacto@realmadrizfc.cl;5;Estadio La Portada;Av. Amunátegui 1350, La Serena;20624;pasto natural
-11;60000077-2;El Velero;Av. Los Deportistas 230, Puerto Montt;contacto@atleticocolchagua.cl;11;Estadio Ester Roa Rebolledo;Av. Roosevelt 1900, Concepción;25000;pasto natural
-11;60000077-2;El Velero;Av. Los Deportistas 230, Puerto Montt;contacto@atleticocolchagua.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-11;60000077-2;El Velero;Av. Los Deportistas 230, Puerto Montt;contacto@atleticocolchagua.cl;4;Estadio Luis Valenzuela Hermosilla;Av. Circunvalación 1200, Copiapó;12000;pasto natural
-11;60000077-2;El Velero;Av. Los Deportistas 230, Puerto Montt;contacto@atleticocolchagua.cl;7;Estadio Nacional Julio Martínez Prádanos;Av. Grecia 2001, Ñuñoa, Santiago;48665;pasto natural
-11;60000077-2;El Velero;Av. Los Deportistas 230, Puerto Montt;contacto@atleticocolchagua.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-37;60000259-7;Estrella Roja Andina;Av. Los Deportistas 568, Los Ángeles;contacto@estrellarojaandina.cl;6;Estadio Elías Figueroa Brander;Subida Cerro Placeres 2050, Valparaíso;22000;pasto natural
-37;60000259-7;Estrella Roja Andina;Av. Los Deportistas 568, Los Ángeles;contacto@estrellarojaandina.cl;7;Estadio Nacional Julio Martínez Prádanos;Av. Grecia 2001, Ñuñoa, Santiago;48665;pasto natural
-37;60000259-7;Estrella Roja Andina;Av. Los Deportistas 568, Los Ángeles;contacto@estrellarojaandina.cl;3;Estadio Regional Calvo y Bascuñán;Av. Argentina 1800, Antofagasta;16380;pasto natural
-37;60000259-7;Estrella Roja Andina;Av. Los Deportistas 568, Los Ángeles;contacto@estrellarojaandina.cl;15;Estadio Regional de Coyhaique;Av. Baquedano 500, Coyhaique;5000;pasto sintético
-37;60000259-7;Estrella Roja Andina;Av. Los Deportistas 568, Los Ángeles;contacto@estrellarojaandina.cl;2;Estadio Tierra de Campeones;Av. Balmaceda 1300, Iquique;12000;pasto natural
-32;60000224-4;Fenerbahce Criollo;Av. Los Deportistas 503, Iquique;contacto@fenerbahcecriollo.cl;14;Estadio Chinquihue;Av. Presidente Ibáñez 1400, Puerto Montt;14200;pasto natural
-32;60000224-4;Fenerbahce Criollo;Av. Los Deportistas 503, Iquique;contacto@fenerbahcecriollo.cl;8;Estadio El Teniente;Av. Cachapoal 950, Rancagua;14000;pasto natural
-32;60000224-4;Fenerbahce Criollo;Av. Los Deportistas 503, Iquique;contacto@fenerbahcecriollo.cl;5;Estadio La Portada;Av. Amunátegui 1350, La Serena;20624;pasto natural
-32;60000224-4;Fenerbahce Criollo;Av. Los Deportistas 503, Iquique;contacto@fenerbahcecriollo.cl;10;Estadio Nelson Oyarzún Arenas;Av. Collín 1250, Chillán;10000;pasto natural
-32;60000224-4;Fenerbahce Criollo;Av. Los Deportistas 503, Iquique;contacto@fenerbahcecriollo.cl;3;Estadio Regional Calvo y Bascuñán;Av. Argentina 1800, Antofagasta;16380;pasto natural
-32;60000224-4;Fenerbahce Criollo;Av. Los Deportistas 503, Iquique;contacto@fenerbahcecriollo.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-36;60000252-K;Feyenoord Sureño;Av. Los Deportistas 555, Curicó;contacto@feyenoordsureno.cl;1;Estadio Carlos Dittborn;Av. Comandante San Martín 400, Arica;15968;Tierra
-36;60000252-K;Feyenoord Sureño;Av. Los Deportistas 555, Curicó;contacto@feyenoordsureno.cl;13;Estadio Parque Municipal de Valdivia;Av. Ramón Picarte 1200, Valdivia;8000;pasto sintético
-36;60000252-K;Feyenoord Sureño;Av. Los Deportistas 555, Curicó;contacto@feyenoordsureno.cl;20;Estadio Santa Laura - Universidad SEK;Av. Independencia 667, Independencia, Santiago;9500;pasto natural
-36;60000252-K;Feyenoord Sureño;Av. Los Deportistas 555, Curicó;contacto@feyenoordsureno.cl;2;Estadio Tierra de Campeones;Av. Balmaceda 1300, Iquique;12000;pasto natural
-19;60000133-7;Flamenco Rojo;Av. Los Deportistas 334, Punta Arenas;contacto@flamencorojo.cl;1;Estadio Carlos Dittborn;Av. Comandante San Martín 400, Arica;15968;Tierra
-19;60000133-7;Flamenco Rojo;Av. Los Deportistas 334, Punta Arenas;contacto@flamencorojo.cl;11;Estadio Ester Roa Rebolledo;Av. Roosevelt 1900, Concepción;25000;pasto natural
-19;60000133-7;Flamenco Rojo;Av. Los Deportistas 334, Punta Arenas;contacto@flamencorojo.cl;10;Estadio Nelson Oyarzún Arenas;Av. Collín 1250, Chillán;10000;pasto natural
-19;60000133-7;Flamenco Rojo;Av. Los Deportistas 334, Punta Arenas;contacto@flamencorojo.cl;2;Estadio Tierra de Campeones;Av. Balmaceda 1300, Iquique;12000;pasto natural
-33;60000231-7;Galatasarái Andino;Av. Los Deportistas 516, Arica;contacto@galatasaraiandino.cl;11;Estadio Ester Roa Rebolledo;Av. Roosevelt 1900, Concepción;25000;pasto natural
-33;60000231-7;Galatasarái Andino;Av. Los Deportistas 516, Arica;contacto@galatasaraiandino.cl;7;Estadio Nacional Julio Martínez Prádanos;Av. Grecia 2001, Ñuñoa, Santiago;48665;pasto natural
-33;60000231-7;Galatasarái Andino;Av. Los Deportistas 516, Arica;contacto@galatasaraiandino.cl;10;Estadio Nelson Oyarzún Arenas;Av. Collín 1250, Chillán;10000;pasto natural
-33;60000231-7;Galatasarái Andino;Av. Los Deportistas 516, Arica;contacto@galatasaraiandino.cl;15;Estadio Regional de Coyhaique;Av. Baquedano 500, Coyhaique;5000;pasto sintético
-33;60000231-7;Galatasarái Andino;Av. Los Deportistas 516, Arica;contacto@galatasaraiandino.cl;20;Estadio Santa Laura - Universidad SEK;Av. Independencia 667, Independencia, Santiago;9500;pasto natural
-33;60000231-7;Galatasarái Andino;Av. Los Deportistas 516, Arica;contacto@galatasaraiandino.cl;2;Estadio Tierra de Campeones;Av. Balmaceda 1300, Iquique;12000;pasto natural
-9;60000063-2;Inter Milano Sur;Av. Los Deportistas 204, Chillán;contacto@intermilanosur.cl;1;Estadio Carlos Dittborn;Av. Comandante San Martín 400, Arica;15968;Tierra
-9;60000063-2;Inter Milano Sur;Av. Los Deportistas 204, Chillán;contacto@intermilanosur.cl;11;Estadio Ester Roa Rebolledo;Av. Roosevelt 1900, Concepción;25000;pasto natural
-9;60000063-2;Inter Milano Sur;Av. Los Deportistas 204, Chillán;contacto@intermilanosur.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-9;60000063-2;Inter Milano Sur;Av. Los Deportistas 204, Chillán;contacto@intermilanosur.cl;15;Estadio Regional de Coyhaique;Av. Baquedano 500, Coyhaique;5000;pasto sintético
-8;60000056-K;Juvéntus Criolla;Av. Los Deportistas 191, Talca;contacto@juventuscriolla.cl;8;Estadio El Teniente;Av. Cachapoal 950, Rancagua;14000;pasto natural
-8;60000056-K;Juvéntus Criolla;Av. Los Deportistas 191, Talca;contacto@juventuscriolla.cl;11;Estadio Ester Roa Rebolledo;Av. Roosevelt 1900, Concepción;25000;pasto natural
-8;60000056-K;Juvéntus Criolla;Av. Los Deportistas 191, Talca;contacto@juventuscriolla.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-8;60000056-K;Juvéntus Criolla;Av. Los Deportistas 191, Talca;contacto@juventuscriolla.cl;20;Estadio Santa Laura - Universidad SEK;Av. Independencia 667, Independencia, Santiago;9500;pasto natural
-2;60000014-4;La U;;contacto@u.cl;14;Estadio Chinquihue;Av. Presidente Ibáñez 1400, Puerto Montt;14200;pasto natural
-2;60000014-4;La U;;contacto@u.cl;15;Estadio Regional de Coyhaique;Av. Baquedano 500, Coyhaique;5000;pasto sintético
-2;60000014-4;La U;;contacto@u.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-2;60000014-4;La U;;contacto@u.cl;2;Estadio Tierra de Campeones;Av. Balmaceda 1300, Iquique;12000;pasto natural
-4;60000028-4;Liverpol Andino;Av. Los Deportistas 139, La Serena;contacto@liverpolandino.cl;11;Estadio Ester Roa Rebolledo;Av. Roosevelt 1900, Concepción;25000;pasto natural
-4;60000028-4;Liverpol Andino;Av. Los Deportistas 139, La Serena;contacto@liverpolandino.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-4;60000028-4;Liverpol Andino;Av. Los Deportistas 139, La Serena;contacto@liverpolandino.cl;5;Estadio La Portada;Av. Amunátegui 1350, La Serena;20624;pasto natural
-4;60000028-4;Liverpol Andino;Av. Los Deportistas 139, La Serena;contacto@liverpolandino.cl;4;Estadio Luis Valenzuela Hermosilla;Av. Circunvalación 1200, Copiapó;12000;pasto natural
-27;60000189-2;Lyonés Andino;Av. Los Deportistas 438, Rancagua;contacto@lyonesandino.cl;1;Estadio Carlos Dittborn;Av. Comandante San Martín 400, Arica;15968;Tierra
-27;60000189-2;Lyonés Andino;Av. Los Deportistas 438, Rancagua;contacto@lyonesandino.cl;8;Estadio El Teniente;Av. Cachapoal 950, Rancagua;14000;pasto natural
-27;60000189-2;Lyonés Andino;Av. Los Deportistas 438, Rancagua;contacto@lyonesandino.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-27;60000189-2;Lyonés Andino;Av. Los Deportistas 438, Rancagua;contacto@lyonesandino.cl;5;Estadio La Portada;Av. Amunátegui 1350, La Serena;20624;pasto natural
-27;60000189-2;Lyonés Andino;Av. Los Deportistas 438, Rancagua;contacto@lyonesandino.cl;15;Estadio Regional de Coyhaique;Av. Baquedano 500, Coyhaique;5000;pasto sintético
-27;60000189-2;Lyonés Andino;Av. Los Deportistas 438, Rancagua;contacto@lyonesandino.cl;2;Estadio Tierra de Campeones;Av. Balmaceda 1300, Iquique;12000;pasto natural
-3;60000021-7;ManU Deportivo;Av. Los Deportistas 126, Concepción;contacto@manudeportivo.cl;1;Estadio Carlos Dittborn;Av. Comandante San Martín 400, Arica;15968;Tierra
-3;60000021-7;ManU Deportivo;Av. Los Deportistas 126, Concepción;contacto@manudeportivo.cl;11;Estadio Ester Roa Rebolledo;Av. Roosevelt 1900, Concepción;25000;pasto natural
-3;60000021-7;ManU Deportivo;Av. Los Deportistas 126, Concepción;contacto@manudeportivo.cl;16;Estadio Fiscal de Punta Arenas;Av. Bulnes 1050, Punta Arenas;8000;pasto sintético
-3;60000021-7;ManU Deportivo;Av. Los Deportistas 126, Concepción;contacto@manudeportivo.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-3;60000021-7;ManU Deportivo;Av. Los Deportistas 126, Concepción;contacto@manudeportivo.cl;3;Estadio Regional Calvo y Bascuñán;Av. Argentina 1800, Antofagasta;16380;pasto natural
-3;60000021-7;ManU Deportivo;Av. Los Deportistas 126, Concepción;contacto@manudeportivo.cl;2;Estadio Tierra de Campeones;Av. Balmaceda 1300, Iquique;12000;pasto natural
-26;60000182-5;Marsella del Pacífico;Av. Los Deportistas 425, Temuco;contacto@marselladelpacifico.cl;8;Estadio El Teniente;Av. Cachapoal 950, Rancagua;14000;pasto natural
-26;60000182-5;Marsella del Pacífico;Av. Los Deportistas 425, Temuco;contacto@marselladelpacifico.cl;6;Estadio Elías Figueroa Brander;Subida Cerro Placeres 2050, Valparaíso;22000;pasto natural
-26;60000182-5;Marsella del Pacífico;Av. Los Deportistas 425, Temuco;contacto@marselladelpacifico.cl;4;Estadio Luis Valenzuela Hermosilla;Av. Circunvalación 1200, Copiapó;12000;pasto natural
-26;60000182-5;Marsella del Pacífico;Av. Los Deportistas 425, Temuco;contacto@marselladelpacifico.cl;10;Estadio Nelson Oyarzún Arenas;Av. Collín 1250, Chillán;10000;pasto natural
-26;60000182-5;Marsella del Pacífico;Av. Los Deportistas 425, Temuco;contacto@marselladelpacifico.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-26;60000182-5;Marsella del Pacífico;Av. Los Deportistas 425, Temuco;contacto@marselladelpacifico.cl;2;Estadio Tierra de Campeones;Av. Balmaceda 1300, Iquique;12000;pasto natural
-40;60000280-5;Mónaco Andino;Av. Los Deportistas 607, San Antonio;contacto@monacoandino.cl;6;Estadio Elías Figueroa Brander;Subida Cerro Placeres 2050, Valparaíso;22000;pasto natural
-40;60000280-5;Mónaco Andino;Av. Los Deportistas 607, San Antonio;contacto@monacoandino.cl;16;Estadio Fiscal de Punta Arenas;Av. Bulnes 1050, Punta Arenas;8000;pasto sintético
-40;60000280-5;Mónaco Andino;Av. Los Deportistas 607, San Antonio;contacto@monacoandino.cl;15;Estadio Regional de Coyhaique;Av. Baquedano 500, Coyhaique;5000;pasto sintético
-40;60000280-5;Mónaco Andino;Av. Los Deportistas 607, San Antonio;contacto@monacoandino.cl;19;Estadio San Joaquín;Av. Vicuña Mackenna 4860, San Joaquín, Santiago;5000;pasto sintético
-25;60000175-2;Napolés Criollo;Av. Los Deportistas 412, Antofagasta;contacto@napolescriollo.cl;7;Estadio Nacional Julio Martínez Prádanos;Av. Grecia 2001, Ñuñoa, Santiago;48665;pasto natural
-25;60000175-2;Napolés Criollo;Av. Los Deportistas 412, Antofagasta;contacto@napolescriollo.cl;15;Estadio Regional de Coyhaique;Av. Baquedano 500, Coyhaique;5000;pasto sintético
-25;60000175-2;Napolés Criollo;Av. Los Deportistas 412, Antofagasta;contacto@napolescriollo.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-25;60000175-2;Napolés Criollo;Av. Los Deportistas 412, Antofagasta;contacto@napolescriollo.cl;2;Estadio Tierra de Campeones;Av. Balmaceda 1300, Iquique;12000;pasto natural
-34;60000238-4;Olympiacos del Maule;Av. Los Deportistas 529, Copiapó;contacto@olympiacosdelmaule.cl;16;Estadio Fiscal de Punta Arenas;Av. Bulnes 1050, Punta Arenas;8000;pasto sintético
-34;60000238-4;Olympiacos del Maule;Av. Los Deportistas 529, Copiapó;contacto@olympiacosdelmaule.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-34;60000238-4;Olympiacos del Maule;Av. Los Deportistas 529, Copiapó;contacto@olympiacosdelmaule.cl;5;Estadio La Portada;Av. Amunátegui 1350, La Serena;20624;pasto natural
-34;60000238-4;Olympiacos del Maule;Av. Los Deportistas 529, Copiapó;contacto@olympiacosdelmaule.cl;10;Estadio Nelson Oyarzún Arenas;Av. Collín 1250, Chillán;10000;pasto natural
-7;60000049-7;Parí Saint-Germán;Av. Los Deportistas 178, Rancagua;contacto@parisaintgerman.cl;6;Estadio Elías Figueroa Brander;Subida Cerro Placeres 2050, Valparaíso;22000;pasto natural
-7;60000049-7;Parí Saint-Germán;Av. Los Deportistas 178, Rancagua;contacto@parisaintgerman.cl;7;Estadio Nacional Julio Martínez Prádanos;Av. Grecia 2001, Ñuñoa, Santiago;48665;pasto natural
-7;60000049-7;Parí Saint-Germán;Av. Los Deportistas 178, Rancagua;contacto@parisaintgerman.cl;13;Estadio Parque Municipal de Valdivia;Av. Ramón Picarte 1200, Valdivia;8000;pasto sintético
-7;60000049-7;Parí Saint-Germán;Av. Los Deportistas 178, Rancagua;contacto@parisaintgerman.cl;3;Estadio Regional Calvo y Bascuñán;Av. Argentina 1800, Antofagasta;16380;pasto natural
-7;60000049-7;Parí Saint-Germán;Av. Los Deportistas 178, Rancagua;contacto@parisaintgerman.cl;20;Estadio Santa Laura - Universidad SEK;Av. Independencia 667, Independencia, Santiago;9500;pasto natural
-17;60000119-1;Peñarol Andino;Av. Los Deportistas 308, Los Ángeles;contacto@penarolandino.cl;11;Estadio Ester Roa Rebolledo;Av. Roosevelt 1900, Concepción;25000;pasto natural
-17;60000119-1;Peñarol Andino;Av. Los Deportistas 308, Los Ángeles;contacto@penarolandino.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-17;60000119-1;Peñarol Andino;Av. Los Deportistas 308, Los Ángeles;contacto@penarolandino.cl;5;Estadio La Portada;Av. Amunátegui 1350, La Serena;20624;pasto natural
-17;60000119-1;Peñarol Andino;Av. Los Deportistas 308, Los Ángeles;contacto@penarolandino.cl;13;Estadio Parque Municipal de Valdivia;Av. Ramón Picarte 1200, Valdivia;8000;pasto sintético
-17;60000119-1;Peñarol Andino;Av. Los Deportistas 308, Los Ángeles;contacto@penarolandino.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-17;60000119-1;Peñarol Andino;Av. Los Deportistas 308, Los Ángeles;contacto@penarolandino.cl;20;Estadio Santa Laura - Universidad SEK;Av. Independencia 667, Independencia, Santiago;9500;pasto natural
-22;60000154-K;Porto Alegre Andino;Av. Los Deportistas 373, Valparaíso;contacto@portoalegreandino.cl;14;Estadio Chinquihue;Av. Presidente Ibáñez 1400, Puerto Montt;14200;pasto natural
-22;60000154-K;Porto Alegre Andino;Av. Los Deportistas 373, Valparaíso;contacto@portoalegreandino.cl;16;Estadio Fiscal de Punta Arenas;Av. Bulnes 1050, Punta Arenas;8000;pasto sintético
-22;60000154-K;Porto Alegre Andino;Av. Los Deportistas 373, Valparaíso;contacto@portoalegreandino.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-22;60000154-K;Porto Alegre Andino;Av. Los Deportistas 373, Valparaíso;contacto@portoalegreandino.cl;4;Estadio Luis Valenzuela Hermosilla;Av. Circunvalación 1200, Copiapó;12000;pasto natural
-22;60000154-K;Porto Alegre Andino;Av. Los Deportistas 373, Valparaíso;contacto@portoalegreandino.cl;10;Estadio Nelson Oyarzún Arenas;Av. Collín 1250, Chillán;10000;pasto natural
-22;60000154-K;Porto Alegre Andino;Av. Los Deportistas 373, Valparaíso;contacto@portoalegreandino.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-35;60000245-7;PSV Cordillera;Av. Los Deportistas 542, Osorno;contacto@psvcordillera.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-35;60000245-7;PSV Cordillera;Av. Los Deportistas 542, Osorno;contacto@psvcordillera.cl;5;Estadio La Portada;Av. Amunátegui 1350, La Serena;20624;pasto natural
-35;60000245-7;PSV Cordillera;Av. Los Deportistas 542, Osorno;contacto@psvcordillera.cl;13;Estadio Parque Municipal de Valdivia;Av. Ramón Picarte 1200, Valdivia;8000;pasto sintético
-35;60000245-7;PSV Cordillera;Av. Los Deportistas 542, Osorno;contacto@psvcordillera.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-35;60000245-7;PSV Cordillera;Av. Los Deportistas 542, Osorno;contacto@psvcordillera.cl;20;Estadio Santa Laura - Universidad SEK;Av. Independencia 667, Independencia, Santiago;9500;pasto natural
-31;60000217-1;Rangers del Sur;Av. Los Deportistas 490, Puerto Montt;contacto@rangersdelsur.cl;11;Estadio Ester Roa Rebolledo;Av. Roosevelt 1900, Concepción;25000;pasto natural
-31;60000217-1;Rangers del Sur;Av. Los Deportistas 490, Puerto Montt;contacto@rangersdelsur.cl;12;Estadio Germán Becker;Av. Alemania 0660, Temuco;18000;pasto natural
-31;60000217-1;Rangers del Sur;Av. Los Deportistas 490, Puerto Montt;contacto@rangersdelsur.cl;13;Estadio Parque Municipal de Valdivia;Av. Ramón Picarte 1200, Valdivia;8000;pasto sintético
-31;60000217-1;Rangers del Sur;Av. Los Deportistas 490, Puerto Montt;contacto@rangersdelsur.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-16;60000112-4;River Plateado;Av. Los Deportistas 295, Curicó;contacto@riverplateado.cl;16;Estadio Fiscal de Punta Arenas;Av. Bulnes 1050, Punta Arenas;8000;pasto sintético
-16;60000112-4;River Plateado;Av. Los Deportistas 295, Curicó;contacto@riverplateado.cl;12;Estadio Germán Becker;Av. Alemania 0660, Temuco;18000;pasto natural
-16;60000112-4;River Plateado;Av. Los Deportistas 295, Curicó;contacto@riverplateado.cl;15;Estadio Regional de Coyhaique;Av. Baquedano 500, Coyhaique;5000;pasto sintético
-16;60000112-4;River Plateado;Av. Los Deportistas 295, Curicó;contacto@riverplateado.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-18;60000126-4;Santos Laguna Chico;Av. Los Deportistas 321, Coyhaique;contacto@santoslagunachico.cl;14;Estadio Chinquihue;Av. Presidente Ibáñez 1400, Puerto Montt;14200;pasto natural
-18;60000126-4;Santos Laguna Chico;Av. Los Deportistas 321, Coyhaique;contacto@santoslagunachico.cl;16;Estadio Fiscal de Punta Arenas;Av. Bulnes 1050, Punta Arenas;8000;pasto sintético
-18;60000126-4;Santos Laguna Chico;Av. Los Deportistas 321, Coyhaique;contacto@santoslagunachico.cl;7;Estadio Nacional Julio Martínez Prádanos;Av. Grecia 2001, Ñuñoa, Santiago;48665;pasto natural
-18;60000126-4;Santos Laguna Chico;Av. Los Deportistas 321, Coyhaique;contacto@santoslagunachico.cl;13;Estadio Parque Municipal de Valdivia;Av. Ramón Picarte 1200, Valdivia;8000;pasto sintético
-18;60000126-4;Santos Laguna Chico;Av. Los Deportistas 321, Coyhaique;contacto@santoslagunachico.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-18;60000126-4;Santos Laguna Chico;Av. Los Deportistas 321, Coyhaique;contacto@santoslagunachico.cl;20;Estadio Santa Laura - Universidad SEK;Av. Independencia 667, Independencia, Santiago;9500;pasto natural
-24;60000168-K;Sevílla Norte;Av. Los Deportistas 399, La Serena;contacto@sevillanorte.cl;6;Estadio Elías Figueroa Brander;Subida Cerro Placeres 2050, Valparaíso;22000;pasto natural
-24;60000168-K;Sevílla Norte;Av. Los Deportistas 399, La Serena;contacto@sevillanorte.cl;16;Estadio Fiscal de Punta Arenas;Av. Bulnes 1050, Punta Arenas;8000;pasto sintético
-24;60000168-K;Sevílla Norte;Av. Los Deportistas 399, La Serena;contacto@sevillanorte.cl;9;Estadio Fiscal de Talca;2 Norte 1450, Talca;12000;pasto natural
-24;60000168-K;Sevílla Norte;Av. Los Deportistas 399, La Serena;contacto@sevillanorte.cl;10;Estadio Nelson Oyarzún Arenas;Av. Collín 1250, Chillán;10000;pasto natural
-29;60000203-1;Shakhtiar Minero;Av. Los Deportistas 464, Chillán;contacto@shakhtiarminero.cl;8;Estadio El Teniente;Av. Cachapoal 950, Rancagua;14000;pasto natural
-29;60000203-1;Shakhtiar Minero;Av. Los Deportistas 464, Chillán;contacto@shakhtiarminero.cl;11;Estadio Ester Roa Rebolledo;Av. Roosevelt 1900, Concepción;25000;pasto natural
-29;60000203-1;Shakhtiar Minero;Av. Los Deportistas 464, Chillán;contacto@shakhtiarminero.cl;4;Estadio Luis Valenzuela Hermosilla;Av. Circunvalación 1200, Copiapó;12000;pasto natural
-29;60000203-1;Shakhtiar Minero;Av. Los Deportistas 464, Chillán;contacto@shakhtiarminero.cl;10;Estadio Nelson Oyarzún Arenas;Av. Collín 1250, Chillán;10000;pasto natural
-39;60000273-2;Spártak Cordillerano;Av. Los Deportistas 594, Punta Arenas;contacto@spartakcordillerano.cl;11;Estadio Ester Roa Rebolledo;Av. Roosevelt 1900, Concepción;25000;pasto natural
-39;60000273-2;Spártak Cordillerano;Av. Los Deportistas 594, Punta Arenas;contacto@spartakcordillerano.cl;18;Estadio La Ruca;Av. Pedro Fontova 4001, Huechuraba, Santiago;3500;pasto natural
-39;60000273-2;Spártak Cordillerano;Av. Los Deportistas 594, Punta Arenas;contacto@spartakcordillerano.cl;10;Estadio Nelson Oyarzún Arenas;Av. Collín 1250, Chillán;10000;pasto natural
-39;60000273-2;Spártak Cordillerano;Av. Los Deportistas 594, Punta Arenas;contacto@spartakcordillerano.cl;15;Estadio Regional de Coyhaique;Av. Baquedano 500, Coyhaique;5000;pasto sintético
-39;60000273-2;Spártak Cordillerano;Av. Los Deportistas 594, Punta Arenas;contacto@spartakcordillerano.cl;17;Estadio San Carlos de Apoquindo;Av. Las Flores 13.400, Las Condes, Santiago;20000;pasto natural
-14;60000098-5;Tottenham Costero;Av. Los Deportistas 269, Copiapó;contacto@tottenhamcostero.cl;14;Estadio Chinquihue;Av. Presidente Ibáñez 1400, Puerto Montt;14200;pasto natural
-14;60000098-5;Tottenham Costero;Av. Los Deportistas 269, Copiapó;contacto@tottenhamcostero.cl;12;Estadio Germán Becker;Av. Alemania 0660, Temuco;18000;pasto natural
-14;60000098-5;Tottenham Costero;Av. Los Deportistas 269, Copiapó;contacto@tottenhamcostero.cl;4;Estadio Luis Valenzuela Hermosilla;Av. Circunvalación 1200, Copiapó;12000;pasto natural
-14;60000098-5;Tottenham Costero;Av. Los Deportistas 269, Copiapó;contacto@tottenhamcostero.cl;2;Estadio Tierra de Campeones;Av. Balmaceda 1300, Iquique;12000;pasto natural
-28;60000196-5;Zenit del Cobre;Av. Los Deportistas 451, Talca;contacto@zenitdelcobre.cl;11;Estadio Ester Roa Rebolledo;Av. Roosevelt 1900, Concepción;25000;pasto natural
-28;60000196-5;Zenit del Cobre;Av. Los Deportistas 451, Talca;contacto@zenitdelcobre.cl;16;Estadio Fiscal de Punta Arenas;Av. Bulnes 1050, Punta Arenas;8000;pasto sintético
-28;60000196-5;Zenit del Cobre;Av. Los Deportistas 451, Talca;contacto@zenitdelcobre.cl;10;Estadio Nelson Oyarzún Arenas;Av. Collín 1250, Chillán;10000;pasto natural
-28;60000196-5;Zenit del Cobre;Av. Los Deportistas 451, Talca;contacto@zenitdelcobre.cl;3;Estadio Regional Calvo y Bascuñán;Av. Argentina 1800, Antofagasta;16380;pasto natural
+"id_equipo","rut_equipo","equipo_nombre","equipo_direccion","equipo_correo","equipo_presidente","equipo_division","id_estadio","estadio_nombre","estadio_direccion","estadio_capacidad","estadio_tipo_superficie"
+10,"60000070-5","AC Miláñez","Av. Los Deportistas 217, Valdivia","contacto@acmilanez.cl","Vicente Beausejour Modric","A",8,"Estadio El Teniente","Av. Cachapoal 950, Rancagua",14000,"pasto natural"
+10,"60000070-5","AC Miláñez","Av. Los Deportistas 217, Valdivia","contacto@acmilanez.cl","Vicente Beausejour Modric","A",7,"Estadio Nacional Julio Martínez Prádanos","Av. Grecia 2001, Ñuñoa, Santiago",48665,"pasto natural"
+10,"60000070-5","AC Miláñez","Av. Los Deportistas 217, Valdivia","contacto@acmilanez.cl","Vicente Beausejour Modric","A",10,"Estadio Nelson Oyarzún Arenas","Av. Collín 1250, Chillán",10000,"pasto natural"
+10,"60000070-5","AC Miláñez","Av. Los Deportistas 217, Valdivia","contacto@acmilanez.cl","Vicente Beausejour Modric","A",13,"Estadio Parque Municipal de Valdivia","Av. Ramón Picarte 1200, Valdivia",8000,"pasto sintético"
+10,"60000070-5","AC Miláñez","Av. Los Deportistas 217, Valdivia","contacto@acmilanez.cl","Vicente Beausejour Modric","A",20,"Estadio Santa Laura - Universidad SEK","Av. Independencia 667, Independencia, Santiago",9500,"pasto natural"
+10,"60000070-5","AC Miláñez","Av. Los Deportistas 217, Valdivia","contacto@acmilanez.cl","Vicente Beausejour Modric","A",2,"Estadio Tierra de Campeones","Av. Balmaceda 1300, Iquique",12000,"pasto natural"
+13,"60000091-8","Arsenal Cordillera","Av. Los Deportistas 256, Arica","contacto@arsenalcordillera.cl","Santino Vásquez Tapia","A",1,"Estadio Carlos Dittborn","Av. Comandante San Martín 400, Arica",15968,"pasto natural"
+13,"60000091-8","Arsenal Cordillera","Av. Los Deportistas 256, Arica","contacto@arsenalcordillera.cl","Santino Vásquez Tapia","A",4,"Estadio Luis Valenzuela Hermosilla","Av. Circunvalación 1200, Copiapó",12000,"pasto natural"
+13,"60000091-8","Arsenal Cordillera","Av. Los Deportistas 256, Arica","contacto@arsenalcordillera.cl","Santino Vásquez Tapia","A",10,"Estadio Nelson Oyarzún Arenas","Av. Collín 1250, Chillán",10000,"pasto natural"
+13,"60000091-8","Arsenal Cordillera","Av. Los Deportistas 256, Arica","contacto@arsenalcordillera.cl","Santino Vásquez Tapia","A",13,"Estadio Parque Municipal de Valdivia","Av. Ramón Picarte 1200, Valdivia",8000,"pasto sintético"
+13,"60000091-8","Arsenal Cordillera","Av. Los Deportistas 256, Arica","contacto@arsenalcordillera.cl","Santino Vásquez Tapia","A",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+6,"60000042-K","Bayern del Maule","Av. Los Deportistas 165, Temuco","contacto@bayerndelmaule.cl","Álvaro Carrasco Cortés","A",6,"Estadio Elías Figueroa Brander","Subida Cerro Placeres 2050, Valparaíso",22000,"pasto natural"
+6,"60000042-K","Bayern del Maule","Av. Los Deportistas 165, Temuco","contacto@bayerndelmaule.cl","Álvaro Carrasco Cortés","A",16,"Estadio Fiscal de Punta Arenas","Av. Bulnes 1050, Punta Arenas",8000,"pasto sintético"
+6,"60000042-K","Bayern del Maule","Av. Los Deportistas 165, Temuco","contacto@bayerndelmaule.cl","Álvaro Carrasco Cortés","A",7,"Estadio Nacional Julio Martínez Prádanos","Av. Grecia 2001, Ñuñoa, Santiago",48665,"pasto natural"
+6,"60000042-K","Bayern del Maule","Av. Los Deportistas 165, Temuco","contacto@bayerndelmaule.cl","Álvaro Carrasco Cortés","A",10,"Estadio Nelson Oyarzún Arenas","Av. Collín 1250, Chillán",10000,"pasto natural"
+6,"60000042-K","Bayern del Maule","Av. Los Deportistas 165, Temuco","contacto@bayerndelmaule.cl","Álvaro Carrasco Cortés","A",13,"Estadio Parque Municipal de Valdivia","Av. Ramón Picarte 1200, Valdivia",8000,"pasto sintético"
+23,"60000161-2","Benfíquez SC","Av. Los Deportistas 386, Concepción","contacto@benfiquezsc.cl","Marcelo Müller Mbappe","B",11,"Estadio Ester Roa Rebolledo","Av. Roosevelt 1900, Concepción",25000,"pasto natural"
+23,"60000161-2","Benfíquez SC","Av. Los Deportistas 386, Concepción","contacto@benfiquezsc.cl","Marcelo Müller Mbappe","B",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+23,"60000161-2","Benfíquez SC","Av. Los Deportistas 386, Concepción","contacto@benfiquezsc.cl","Marcelo Müller Mbappe","B",5,"Estadio La Portada","Av. Amunátegui 1350, La Serena",20624,"pasto natural"
+23,"60000161-2","Benfíquez SC","Av. Los Deportistas 386, Concepción","contacto@benfiquezsc.cl","Marcelo Müller Mbappe","B",7,"Estadio Nacional Julio Martínez Prádanos","Av. Grecia 2001, Ñuñoa, Santiago",48665,"pasto natural"
+23,"60000161-2","Benfíquez SC","Av. Los Deportistas 386, Concepción","contacto@benfiquezsc.cl","Marcelo Müller Mbappe","B",2,"Estadio Tierra de Campeones","Av. Balmaceda 1300, Iquique",12000,"pasto natural"
+15,"60000105-1","Boca del Puerto","Av. Los Deportistas 282, Osorno","contacto@bocadelpuerto.cl","Julian Bellingham Kroos","A",14,"Estadio Chinquihue","Av. Presidente Ibáñez 1400, Puerto Montt",14200,"pasto natural"
+15,"60000105-1","Boca del Puerto","Av. Los Deportistas 282, Osorno","contacto@bocadelpuerto.cl","Julian Bellingham Kroos","A",8,"Estadio El Teniente","Av. Cachapoal 950, Rancagua",14000,"pasto natural"
+15,"60000105-1","Boca del Puerto","Av. Los Deportistas 282, Osorno","contacto@bocadelpuerto.cl","Julian Bellingham Kroos","A",4,"Estadio Luis Valenzuela Hermosilla","Av. Circunvalación 1200, Copiapó",12000,"pasto natural"
+15,"60000105-1","Boca del Puerto","Av. Los Deportistas 282, Osorno","contacto@bocadelpuerto.cl","Julian Bellingham Kroos","A",3,"Estadio Regional Calvo y Bascuñán","Av. Argentina 1800, Antofagasta",16380,"pasto natural"
+15,"60000105-1","Boca del Puerto","Av. Los Deportistas 282, Osorno","contacto@bocadelpuerto.cl","Julian Bellingham Kroos","A",15,"Estadio Regional de Coyhaique","Av. Baquedano 500, Coyhaique",5000,"pasto sintético"
+15,"60000105-1","Boca del Puerto","Av. Los Deportistas 282, Osorno","contacto@bocadelpuerto.cl","Julian Bellingham Kroos","A",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+30,"60000210-4","Celtic Andino","Av. Los Deportistas 477, Valdivia","contacto@celticandino.cl","Bastián Soto Gómez","B",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+30,"60000210-4","Celtic Andino","Av. Los Deportistas 477, Valdivia","contacto@celticandino.cl","Bastián Soto Gómez","B",12,"Estadio Germán Becker","Av. Alemania 0660, Temuco",18000,"pasto natural"
+30,"60000210-4","Celtic Andino","Av. Los Deportistas 477, Valdivia","contacto@celticandino.cl","Bastián Soto Gómez","B",13,"Estadio Parque Municipal de Valdivia","Av. Ramón Picarte 1200, Valdivia",8000,"pasto sintético"
+30,"60000210-4","Celtic Andino","Av. Los Deportistas 477, Valdivia","contacto@celticandino.cl","Bastián Soto Gómez","B",3,"Estadio Regional Calvo y Bascuñán","Av. Argentina 1800, Antofagasta",16380,"pasto natural"
+5,"60000035-7","Chelsea Sur","Av. Los Deportistas 152, Antofagasta","contacto@chelseasur.cl","Jean Isla Zidane","A",12,"Estadio Germán Becker","Av. Alemania 0660, Temuco",18000,"pasto natural"
+5,"60000035-7","Chelsea Sur","Av. Los Deportistas 152, Antofagasta","contacto@chelseasur.cl","Jean Isla Zidane","A",5,"Estadio La Portada","Av. Amunátegui 1350, La Serena",20624,"pasto natural"
+5,"60000035-7","Chelsea Sur","Av. Los Deportistas 152, Antofagasta","contacto@chelseasur.cl","Jean Isla Zidane","A",4,"Estadio Luis Valenzuela Hermosilla","Av. Circunvalación 1200, Copiapó",12000,"pasto natural"
+5,"60000035-7","Chelsea Sur","Av. Los Deportistas 152, Antofagasta","contacto@chelseasur.cl","Jean Isla Zidane","A",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+20,"60000140-K","Corinthios FC","Av. Los Deportistas 347, San Antonio","contacto@corinthiosfc.cl","Romelu Silva Ronaldo","A",14,"Estadio Chinquihue","Av. Presidente Ibáñez 1400, Puerto Montt",14200,"pasto natural"
+20,"60000140-K","Corinthios FC","Av. Los Deportistas 347, San Antonio","contacto@corinthiosfc.cl","Romelu Silva Ronaldo","A",6,"Estadio Elías Figueroa Brander","Subida Cerro Placeres 2050, Valparaíso",22000,"pasto natural"
+20,"60000140-K","Corinthios FC","Av. Los Deportistas 347, San Antonio","contacto@corinthiosfc.cl","Romelu Silva Ronaldo","A",16,"Estadio Fiscal de Punta Arenas","Av. Bulnes 1050, Punta Arenas",8000,"pasto sintético"
+20,"60000140-K","Corinthios FC","Av. Los Deportistas 347, San Antonio","contacto@corinthiosfc.cl","Romelu Silva Ronaldo","A",2,"Estadio Tierra de Campeones","Av. Balmaceda 1300, Iquique",12000,"pasto natural"
+21,"60000147-7","DCC UC","Vicuña Mackenna 4860","contacto@ajaxdelsur.cl","Felipe Arias Lewandowski","B",6,"Estadio Elías Figueroa Brander","Subida Cerro Placeres 2050, Valparaíso",22000,"pasto natural"
+21,"60000147-7","DCC UC","Vicuña Mackenna 4860","contacto@ajaxdelsur.cl","Felipe Arias Lewandowski","B",16,"Estadio Fiscal de Punta Arenas","Av. Bulnes 1050, Punta Arenas",8000,"pasto sintético"
+21,"60000147-7","DCC UC","Vicuña Mackenna 4860","contacto@ajaxdelsur.cl","Felipe Arias Lewandowski","B",5,"Estadio La Portada","Av. Amunátegui 1350, La Serena",20624,"pasto natural"
+21,"60000147-7","DCC UC","Vicuña Mackenna 4860","contacto@ajaxdelsur.cl","Felipe Arias Lewandowski","B",13,"Estadio Parque Municipal de Valdivia","Av. Ramón Picarte 1200, Valdivia",8000,"pasto sintético"
+21,"60000147-7","DCC UC","Vicuña Mackenna 4860","contacto@ajaxdelsur.cl","Felipe Arias Lewandowski","B",3,"Estadio Regional Calvo y Bascuñán","Av. Argentina 1800, Antofagasta",16380,"pasto natural"
+21,"60000147-7","DCC UC","Vicuña Mackenna 4860","contacto@ajaxdelsur.cl","Felipe Arias Lewandowski","B",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+38,"60000266-K","Dínamo del Norte","Av. Los Deportistas 581, Coyhaique","contacto@dinamodelnorte.cl","Vicente Bellingham Gutiérrez","B",1,"Estadio Carlos Dittborn","Av. Comandante San Martín 400, Arica",15968,"pasto natural"
+38,"60000266-K","Dínamo del Norte","Av. Los Deportistas 581, Coyhaique","contacto@dinamodelnorte.cl","Vicente Bellingham Gutiérrez","B",8,"Estadio El Teniente","Av. Cachapoal 950, Rancagua",14000,"pasto natural"
+38,"60000266-K","Dínamo del Norte","Av. Los Deportistas 581, Coyhaique","contacto@dinamodelnorte.cl","Vicente Bellingham Gutiérrez","B",16,"Estadio Fiscal de Punta Arenas","Av. Bulnes 1050, Punta Arenas",8000,"pasto sintético"
+38,"60000266-K","Dínamo del Norte","Av. Los Deportistas 581, Coyhaique","contacto@dinamodelnorte.cl","Vicente Bellingham Gutiérrez","B",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+38,"60000266-K","Dínamo del Norte","Av. Los Deportistas 581, Coyhaique","contacto@dinamodelnorte.cl","Vicente Bellingham Gutiérrez","B",12,"Estadio Germán Becker","Av. Alemania 0660, Temuco",18000,"pasto natural"
+38,"60000266-K","Dínamo del Norte","Av. Los Deportistas 581, Coyhaique","contacto@dinamodelnorte.cl","Vicente Bellingham Gutiérrez","B",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+12,"60000084-5","Dortmundo Amarillo","Av. Los Deportistas 243, Iquique","contacto@dortmundoamarillo.cl","Toni Suazo Castillo","A",14,"Estadio Chinquihue","Av. Presidente Ibáñez 1400, Puerto Montt",14200,"pasto natural"
+12,"60000084-5","Dortmundo Amarillo","Av. Los Deportistas 243, Iquique","contacto@dortmundoamarillo.cl","Toni Suazo Castillo","A",16,"Estadio Fiscal de Punta Arenas","Av. Bulnes 1050, Punta Arenas",8000,"pasto sintético"
+12,"60000084-5","Dortmundo Amarillo","Av. Los Deportistas 243, Iquique","contacto@dortmundoamarillo.cl","Toni Suazo Castillo","A",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+12,"60000084-5","Dortmundo Amarillo","Av. Los Deportistas 243, Iquique","contacto@dortmundoamarillo.cl","Toni Suazo Castillo","A",12,"Estadio Germán Becker","Av. Alemania 0660, Temuco",18000,"pasto natural"
+12,"60000084-5","Dortmundo Amarillo","Av. Los Deportistas 243, Iquique","contacto@dortmundoamarillo.cl","Toni Suazo Castillo","A",5,"Estadio La Portada","Av. Amunátegui 1350, La Serena",20624,"pasto natural"
+12,"60000084-5","Dortmundo Amarillo","Av. Los Deportistas 243, Iquique","contacto@dortmundoamarillo.cl","Toni Suazo Castillo","A",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+1,"60000007-1","El Eterno Campeón","Av. Marathon 5301, Macul","contacto@realmadrizfc.cl","ColoColo Cacique","A",1,"Estadio Carlos Dittborn","Av. Comandante San Martín 400, Arica",15968,"pasto natural"
+1,"60000007-1","El Eterno Campeón","Av. Marathon 5301, Macul","contacto@realmadrizfc.cl","ColoColo Cacique","A",16,"Estadio Fiscal de Punta Arenas","Av. Bulnes 1050, Punta Arenas",8000,"pasto sintético"
+1,"60000007-1","El Eterno Campeón","Av. Marathon 5301, Macul","contacto@realmadrizfc.cl","ColoColo Cacique","A",12,"Estadio Germán Becker","Av. Alemania 0660, Temuco",18000,"pasto natural"
+1,"60000007-1","El Eterno Campeón","Av. Marathon 5301, Macul","contacto@realmadrizfc.cl","ColoColo Cacique","A",5,"Estadio La Portada","Av. Amunátegui 1350, La Serena",20624,"pasto natural"
+11,"60000077-2","El Velero","Av. Los Deportistas 230, Puerto Montt","contacto@atleticocolchagua.cl","Enzo Pérez Vidal","A",11,"Estadio Ester Roa Rebolledo","Av. Roosevelt 1900, Concepción",25000,"pasto natural"
+11,"60000077-2","El Velero","Av. Los Deportistas 230, Puerto Montt","contacto@atleticocolchagua.cl","Enzo Pérez Vidal","A",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+11,"60000077-2","El Velero","Av. Los Deportistas 230, Puerto Montt","contacto@atleticocolchagua.cl","Enzo Pérez Vidal","A",4,"Estadio Luis Valenzuela Hermosilla","Av. Circunvalación 1200, Copiapó",12000,"pasto natural"
+11,"60000077-2","El Velero","Av. Los Deportistas 230, Puerto Montt","contacto@atleticocolchagua.cl","Enzo Pérez Vidal","A",7,"Estadio Nacional Julio Martínez Prádanos","Av. Grecia 2001, Ñuñoa, Santiago",48665,"pasto natural"
+11,"60000077-2","El Velero","Av. Los Deportistas 230, Puerto Montt","contacto@atleticocolchagua.cl","Enzo Pérez Vidal","A",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+37,"60000259-7","Estrella Roja Andina","Av. Los Deportistas 568, Los Ángeles","contacto@estrellarojaandina.cl","Gary Bustos Rojas","B",6,"Estadio Elías Figueroa Brander","Subida Cerro Placeres 2050, Valparaíso",22000,"pasto natural"
+37,"60000259-7","Estrella Roja Andina","Av. Los Deportistas 568, Los Ángeles","contacto@estrellarojaandina.cl","Gary Bustos Rojas","B",7,"Estadio Nacional Julio Martínez Prádanos","Av. Grecia 2001, Ñuñoa, Santiago",48665,"pasto natural"
+37,"60000259-7","Estrella Roja Andina","Av. Los Deportistas 568, Los Ángeles","contacto@estrellarojaandina.cl","Gary Bustos Rojas","B",3,"Estadio Regional Calvo y Bascuñán","Av. Argentina 1800, Antofagasta",16380,"pasto natural"
+37,"60000259-7","Estrella Roja Andina","Av. Los Deportistas 568, Los Ángeles","contacto@estrellarojaandina.cl","Gary Bustos Rojas","B",15,"Estadio Regional de Coyhaique","Av. Baquedano 500, Coyhaique",5000,"pasto sintético"
+37,"60000259-7","Estrella Roja Andina","Av. Los Deportistas 568, Los Ángeles","contacto@estrellarojaandina.cl","Gary Bustos Rojas","B",2,"Estadio Tierra de Campeones","Av. Balmaceda 1300, Iquique",12000,"pasto natural"
+32,"60000224-4","Fenerbahce Criollo","Av. Los Deportistas 503, Iquique","contacto@fenerbahcecriollo.cl","Mauricio Zidane Vergara","B",14,"Estadio Chinquihue","Av. Presidente Ibáñez 1400, Puerto Montt",14200,"pasto natural"
+32,"60000224-4","Fenerbahce Criollo","Av. Los Deportistas 503, Iquique","contacto@fenerbahcecriollo.cl","Mauricio Zidane Vergara","B",8,"Estadio El Teniente","Av. Cachapoal 950, Rancagua",14000,"pasto natural"
+32,"60000224-4","Fenerbahce Criollo","Av. Los Deportistas 503, Iquique","contacto@fenerbahcecriollo.cl","Mauricio Zidane Vergara","B",5,"Estadio La Portada","Av. Amunátegui 1350, La Serena",20624,"pasto natural"
+32,"60000224-4","Fenerbahce Criollo","Av. Los Deportistas 503, Iquique","contacto@fenerbahcecriollo.cl","Mauricio Zidane Vergara","B",10,"Estadio Nelson Oyarzún Arenas","Av. Collín 1250, Chillán",10000,"pasto natural"
+32,"60000224-4","Fenerbahce Criollo","Av. Los Deportistas 503, Iquique","contacto@fenerbahcecriollo.cl","Mauricio Zidane Vergara","B",3,"Estadio Regional Calvo y Bascuñán","Av. Argentina 1800, Antofagasta",16380,"pasto natural"
+32,"60000224-4","Fenerbahce Criollo","Av. Los Deportistas 503, Iquique","contacto@fenerbahcecriollo.cl","Mauricio Zidane Vergara","B",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+36,"60000252-K","Feyenoord Sureño","Av. Los Deportistas 555, Curicó","contacto@feyenoordsureno.cl","Diego Herrera Morales","B",1,"Estadio Carlos Dittborn","Av. Comandante San Martín 400, Arica",15968,"pasto natural"
+36,"60000252-K","Feyenoord Sureño","Av. Los Deportistas 555, Curicó","contacto@feyenoordsureno.cl","Diego Herrera Morales","B",13,"Estadio Parque Municipal de Valdivia","Av. Ramón Picarte 1200, Valdivia",8000,"pasto sintético"
+36,"60000252-K","Feyenoord Sureño","Av. Los Deportistas 555, Curicó","contacto@feyenoordsureno.cl","Diego Herrera Morales","B",20,"Estadio Santa Laura - Universidad SEK","Av. Independencia 667, Independencia, Santiago",9500,"pasto natural"
+36,"60000252-K","Feyenoord Sureño","Av. Los Deportistas 555, Curicó","contacto@feyenoordsureno.cl","Diego Herrera Morales","B",2,"Estadio Tierra de Campeones","Av. Balmaceda 1300, Iquique",12000,"pasto natural"
+19,"60000133-7","Flamenco Rojo","Av. Los Deportistas 334, Punta Arenas","contacto@flamencorojo.cl","Rodrigo Messi Alvarez","A",1,"Estadio Carlos Dittborn","Av. Comandante San Martín 400, Arica",15968,"pasto natural"
+19,"60000133-7","Flamenco Rojo","Av. Los Deportistas 334, Punta Arenas","contacto@flamencorojo.cl","Rodrigo Messi Alvarez","A",11,"Estadio Ester Roa Rebolledo","Av. Roosevelt 1900, Concepción",25000,"pasto natural"
+19,"60000133-7","Flamenco Rojo","Av. Los Deportistas 334, Punta Arenas","contacto@flamencorojo.cl","Rodrigo Messi Alvarez","A",10,"Estadio Nelson Oyarzún Arenas","Av. Collín 1250, Chillán",10000,"pasto natural"
+19,"60000133-7","Flamenco Rojo","Av. Los Deportistas 334, Punta Arenas","contacto@flamencorojo.cl","Rodrigo Messi Alvarez","A",2,"Estadio Tierra de Campeones","Av. Balmaceda 1300, Iquique",12000,"pasto natural"
+33,"60000231-7","Galatasarái Andino","Av. Los Deportistas 516, Arica","contacto@galatasaraiandino.cl","Diego Mbappe Pulgar","B",11,"Estadio Ester Roa Rebolledo","Av. Roosevelt 1900, Concepción",25000,"pasto natural"
+33,"60000231-7","Galatasarái Andino","Av. Los Deportistas 516, Arica","contacto@galatasaraiandino.cl","Diego Mbappe Pulgar","B",7,"Estadio Nacional Julio Martínez Prádanos","Av. Grecia 2001, Ñuñoa, Santiago",48665,"pasto natural"
+33,"60000231-7","Galatasarái Andino","Av. Los Deportistas 516, Arica","contacto@galatasaraiandino.cl","Diego Mbappe Pulgar","B",10,"Estadio Nelson Oyarzún Arenas","Av. Collín 1250, Chillán",10000,"pasto natural"
+33,"60000231-7","Galatasarái Andino","Av. Los Deportistas 516, Arica","contacto@galatasaraiandino.cl","Diego Mbappe Pulgar","B",15,"Estadio Regional de Coyhaique","Av. Baquedano 500, Coyhaique",5000,"pasto sintético"
+33,"60000231-7","Galatasarái Andino","Av. Los Deportistas 516, Arica","contacto@galatasaraiandino.cl","Diego Mbappe Pulgar","B",20,"Estadio Santa Laura - Universidad SEK","Av. Independencia 667, Independencia, Santiago",9500,"pasto natural"
+33,"60000231-7","Galatasarái Andino","Av. Los Deportistas 516, Arica","contacto@galatasaraiandino.cl","Diego Mbappe Pulgar","B",2,"Estadio Tierra de Campeones","Av. Balmaceda 1300, Iquique",12000,"pasto natural"
+9,"60000063-2","Inter Milano Sur","Av. Los Deportistas 204, Chillán","contacto@intermilanosur.cl","Pedri Rodri Isla","A",1,"Estadio Carlos Dittborn","Av. Comandante San Martín 400, Arica",15968,"pasto natural"
+9,"60000063-2","Inter Milano Sur","Av. Los Deportistas 204, Chillán","contacto@intermilanosur.cl","Pedri Rodri Isla","A",11,"Estadio Ester Roa Rebolledo","Av. Roosevelt 1900, Concepción",25000,"pasto natural"
+9,"60000063-2","Inter Milano Sur","Av. Los Deportistas 204, Chillán","contacto@intermilanosur.cl","Pedri Rodri Isla","A",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+9,"60000063-2","Inter Milano Sur","Av. Los Deportistas 204, Chillán","contacto@intermilanosur.cl","Pedri Rodri Isla","A",15,"Estadio Regional de Coyhaique","Av. Baquedano 500, Coyhaique",5000,"pasto sintético"
+8,"60000056-K","Juvéntus Criolla","Av. Los Deportistas 191, Talca","contacto@juventuscriolla.cl","Ronaldo Güler Araya","A",8,"Estadio El Teniente","Av. Cachapoal 950, Rancagua",14000,"pasto natural"
+8,"60000056-K","Juvéntus Criolla","Av. Los Deportistas 191, Talca","contacto@juventuscriolla.cl","Ronaldo Güler Araya","A",11,"Estadio Ester Roa Rebolledo","Av. Roosevelt 1900, Concepción",25000,"pasto natural"
+8,"60000056-K","Juvéntus Criolla","Av. Los Deportistas 191, Talca","contacto@juventuscriolla.cl","Ronaldo Güler Araya","A",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+8,"60000056-K","Juvéntus Criolla","Av. Los Deportistas 191, Talca","contacto@juventuscriolla.cl","Ronaldo Güler Araya","A",20,"Estadio Santa Laura - Universidad SEK","Av. Independencia 667, Independencia, Santiago",9500,"pasto natural"
+2,"60000014-4","La U","No tiene","contacto@barzacatalana.cl","Andrés Bello","A",14,"Estadio Chinquihue","Av. Presidente Ibáñez 1400, Puerto Montt",14200,"pasto natural"
+2,"60000014-4","La U","No tiene","contacto@barzacatalana.cl","Andrés Bello","A",15,"Estadio Regional de Coyhaique","Av. Baquedano 500, Coyhaique",5000,"pasto sintético"
+2,"60000014-4","La U","No tiene","contacto@barzacatalana.cl","Andrés Bello","A",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+2,"60000014-4","La U","No tiene","contacto@barzacatalana.cl","Andrés Bello","A",2,"Estadio Tierra de Campeones","Av. Balmaceda 1300, Iquique",12000,"pasto natural"
+4,"60000028-4","Liverpol Andino","Av. Los Deportistas 139, La Serena","contacto@liverpolandino.cl","Esteban Pulgar Dybala","A",11,"Estadio Ester Roa Rebolledo","Av. Roosevelt 1900, Concepción",25000,"pasto natural"
+4,"60000028-4","Liverpol Andino","Av. Los Deportistas 139, La Serena","contacto@liverpolandino.cl","Esteban Pulgar Dybala","A",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+4,"60000028-4","Liverpol Andino","Av. Los Deportistas 139, La Serena","contacto@liverpolandino.cl","Esteban Pulgar Dybala","A",5,"Estadio La Portada","Av. Amunátegui 1350, La Serena",20624,"pasto natural"
+4,"60000028-4","Liverpol Andino","Av. Los Deportistas 139, La Serena","contacto@liverpolandino.cl","Esteban Pulgar Dybala","A",4,"Estadio Luis Valenzuela Hermosilla","Av. Circunvalación 1200, Copiapó",12000,"pasto natural"
+27,"60000189-2","Lyonés Andino","Av. Los Deportistas 438, Rancagua","contacto@lyonesandino.cl","Jaime Muñoz Bellingham","B",1,"Estadio Carlos Dittborn","Av. Comandante San Martín 400, Arica",15968,"pasto natural"
+27,"60000189-2","Lyonés Andino","Av. Los Deportistas 438, Rancagua","contacto@lyonesandino.cl","Jaime Muñoz Bellingham","B",8,"Estadio El Teniente","Av. Cachapoal 950, Rancagua",14000,"pasto natural"
+27,"60000189-2","Lyonés Andino","Av. Los Deportistas 438, Rancagua","contacto@lyonesandino.cl","Jaime Muñoz Bellingham","B",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+27,"60000189-2","Lyonés Andino","Av. Los Deportistas 438, Rancagua","contacto@lyonesandino.cl","Jaime Muñoz Bellingham","B",5,"Estadio La Portada","Av. Amunátegui 1350, La Serena",20624,"pasto natural"
+27,"60000189-2","Lyonés Andino","Av. Los Deportistas 438, Rancagua","contacto@lyonesandino.cl","Jaime Muñoz Bellingham","B",15,"Estadio Regional de Coyhaique","Av. Baquedano 500, Coyhaique",5000,"pasto sintético"
+27,"60000189-2","Lyonés Andino","Av. Los Deportistas 438, Rancagua","contacto@lyonesandino.cl","Jaime Muñoz Bellingham","B",2,"Estadio Tierra de Campeones","Av. Balmaceda 1300, Iquique",12000,"pasto natural"
+3,"60000021-7","ManU Deportivo","Av. Los Deportistas 126, Concepción","contacto@manudeportivo.cl","Lamine Martínez Vásquez","A",1,"Estadio Carlos Dittborn","Av. Comandante San Martín 400, Arica",15968,"pasto natural"
+3,"60000021-7","ManU Deportivo","Av. Los Deportistas 126, Concepción","contacto@manudeportivo.cl","Lamine Martínez Vásquez","A",11,"Estadio Ester Roa Rebolledo","Av. Roosevelt 1900, Concepción",25000,"pasto natural"
+3,"60000021-7","ManU Deportivo","Av. Los Deportistas 126, Concepción","contacto@manudeportivo.cl","Lamine Martínez Vásquez","A",16,"Estadio Fiscal de Punta Arenas","Av. Bulnes 1050, Punta Arenas",8000,"pasto sintético"
+3,"60000021-7","ManU Deportivo","Av. Los Deportistas 126, Concepción","contacto@manudeportivo.cl","Lamine Martínez Vásquez","A",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+3,"60000021-7","ManU Deportivo","Av. Los Deportistas 126, Concepción","contacto@manudeportivo.cl","Lamine Martínez Vásquez","A",3,"Estadio Regional Calvo y Bascuñán","Av. Argentina 1800, Antofagasta",16380,"pasto natural"
+3,"60000021-7","ManU Deportivo","Av. Los Deportistas 126, Concepción","contacto@manudeportivo.cl","Lamine Martínez Vásquez","A",2,"Estadio Tierra de Campeones","Av. Balmaceda 1300, Iquique",12000,"pasto natural"
+26,"60000182-5","Marsella del Pacífico","Av. Los Deportistas 425, Temuco","contacto@marselladelpacifico.cl","Gonzalo Sepúlveda Pulgar","B",8,"Estadio El Teniente","Av. Cachapoal 950, Rancagua",14000,"pasto natural"
+26,"60000182-5","Marsella del Pacífico","Av. Los Deportistas 425, Temuco","contacto@marselladelpacifico.cl","Gonzalo Sepúlveda Pulgar","B",6,"Estadio Elías Figueroa Brander","Subida Cerro Placeres 2050, Valparaíso",22000,"pasto natural"
+26,"60000182-5","Marsella del Pacífico","Av. Los Deportistas 425, Temuco","contacto@marselladelpacifico.cl","Gonzalo Sepúlveda Pulgar","B",4,"Estadio Luis Valenzuela Hermosilla","Av. Circunvalación 1200, Copiapó",12000,"pasto natural"
+26,"60000182-5","Marsella del Pacífico","Av. Los Deportistas 425, Temuco","contacto@marselladelpacifico.cl","Gonzalo Sepúlveda Pulgar","B",10,"Estadio Nelson Oyarzún Arenas","Av. Collín 1250, Chillán",10000,"pasto natural"
+26,"60000182-5","Marsella del Pacífico","Av. Los Deportistas 425, Temuco","contacto@marselladelpacifico.cl","Gonzalo Sepúlveda Pulgar","B",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+26,"60000182-5","Marsella del Pacífico","Av. Los Deportistas 425, Temuco","contacto@marselladelpacifico.cl","Gonzalo Sepúlveda Pulgar","B",2,"Estadio Tierra de Campeones","Av. Balmaceda 1300, Iquique",12000,"pasto natural"
+40,"60000280-5","Mónaco Andino","Av. Los Deportistas 607, San Antonio","contacto@monacoandino.cl","Gabriel Benzema Soto","B",6,"Estadio Elías Figueroa Brander","Subida Cerro Placeres 2050, Valparaíso",22000,"pasto natural"
+40,"60000280-5","Mónaco Andino","Av. Los Deportistas 607, San Antonio","contacto@monacoandino.cl","Gabriel Benzema Soto","B",16,"Estadio Fiscal de Punta Arenas","Av. Bulnes 1050, Punta Arenas",8000,"pasto sintético"
+40,"60000280-5","Mónaco Andino","Av. Los Deportistas 607, San Antonio","contacto@monacoandino.cl","Gabriel Benzema Soto","B",15,"Estadio Regional de Coyhaique","Av. Baquedano 500, Coyhaique",5000,"pasto sintético"
+40,"60000280-5","Mónaco Andino","Av. Los Deportistas 607, San Antonio","contacto@monacoandino.cl","Gabriel Benzema Soto","B",19,"Estadio San Joaquín","Av. Vicuña Mackenna 4860, San Joaquín, Santiago",5000,"pasto sintético"
+25,"60000175-2","Napolés Criollo","Av. Los Deportistas 412, Antofagasta","contacto@napolescriollo.cl","Gustavo Muñoz Dybala","B",7,"Estadio Nacional Julio Martínez Prádanos","Av. Grecia 2001, Ñuñoa, Santiago",48665,"pasto natural"
+25,"60000175-2","Napolés Criollo","Av. Los Deportistas 412, Antofagasta","contacto@napolescriollo.cl","Gustavo Muñoz Dybala","B",15,"Estadio Regional de Coyhaique","Av. Baquedano 500, Coyhaique",5000,"pasto sintético"
+25,"60000175-2","Napolés Criollo","Av. Los Deportistas 412, Antofagasta","contacto@napolescriollo.cl","Gustavo Muñoz Dybala","B",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+25,"60000175-2","Napolés Criollo","Av. Los Deportistas 412, Antofagasta","contacto@napolescriollo.cl","Gustavo Muñoz Dybala","B",2,"Estadio Tierra de Campeones","Av. Balmaceda 1300, Iquique",12000,"pasto natural"
+34,"60000238-4","Olympiacos del Maule","Av. Los Deportistas 529, Copiapó","contacto@olympiacosdelmaule.cl","Mauricio Alvarez Benzema","B",16,"Estadio Fiscal de Punta Arenas","Av. Bulnes 1050, Punta Arenas",8000,"pasto sintético"
+34,"60000238-4","Olympiacos del Maule","Av. Los Deportistas 529, Copiapó","contacto@olympiacosdelmaule.cl","Mauricio Alvarez Benzema","B",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+34,"60000238-4","Olympiacos del Maule","Av. Los Deportistas 529, Copiapó","contacto@olympiacosdelmaule.cl","Mauricio Alvarez Benzema","B",5,"Estadio La Portada","Av. Amunátegui 1350, La Serena",20624,"pasto natural"
+34,"60000238-4","Olympiacos del Maule","Av. Los Deportistas 529, Copiapó","contacto@olympiacosdelmaule.cl","Mauricio Alvarez Benzema","B",10,"Estadio Nelson Oyarzún Arenas","Av. Collín 1250, Chillán",10000,"pasto natural"
+7,"60000049-7","Parí Saint-Germán","Av. Los Deportistas 178, Rancagua","contacto@parisaintgerman.cl","Esteban Beausejour Müller","A",6,"Estadio Elías Figueroa Brander","Subida Cerro Placeres 2050, Valparaíso",22000,"pasto natural"
+7,"60000049-7","Parí Saint-Germán","Av. Los Deportistas 178, Rancagua","contacto@parisaintgerman.cl","Esteban Beausejour Müller","A",7,"Estadio Nacional Julio Martínez Prádanos","Av. Grecia 2001, Ñuñoa, Santiago",48665,"pasto natural"
+7,"60000049-7","Parí Saint-Germán","Av. Los Deportistas 178, Rancagua","contacto@parisaintgerman.cl","Esteban Beausejour Müller","A",13,"Estadio Parque Municipal de Valdivia","Av. Ramón Picarte 1200, Valdivia",8000,"pasto sintético"
+7,"60000049-7","Parí Saint-Germán","Av. Los Deportistas 178, Rancagua","contacto@parisaintgerman.cl","Esteban Beausejour Müller","A",3,"Estadio Regional Calvo y Bascuñán","Av. Argentina 1800, Antofagasta",16380,"pasto natural"
+7,"60000049-7","Parí Saint-Germán","Av. Los Deportistas 178, Rancagua","contacto@parisaintgerman.cl","Esteban Beausejour Müller","A",20,"Estadio Santa Laura - Universidad SEK","Av. Independencia 667, Independencia, Santiago",9500,"pasto natural"
+17,"60000119-1","Peñarol Andino","Av. Los Deportistas 308, Los Ángeles","contacto@penarolandino.cl","Alexis Aránguiz Díaz","A",11,"Estadio Ester Roa Rebolledo","Av. Roosevelt 1900, Concepción",25000,"pasto natural"
+17,"60000119-1","Peñarol Andino","Av. Los Deportistas 308, Los Ángeles","contacto@penarolandino.cl","Alexis Aránguiz Díaz","A",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+17,"60000119-1","Peñarol Andino","Av. Los Deportistas 308, Los Ángeles","contacto@penarolandino.cl","Alexis Aránguiz Díaz","A",5,"Estadio La Portada","Av. Amunátegui 1350, La Serena",20624,"pasto natural"
+17,"60000119-1","Peñarol Andino","Av. Los Deportistas 308, Los Ángeles","contacto@penarolandino.cl","Alexis Aránguiz Díaz","A",13,"Estadio Parque Municipal de Valdivia","Av. Ramón Picarte 1200, Valdivia",8000,"pasto sintético"
+17,"60000119-1","Peñarol Andino","Av. Los Deportistas 308, Los Ángeles","contacto@penarolandino.cl","Alexis Aránguiz Díaz","A",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+17,"60000119-1","Peñarol Andino","Av. Los Deportistas 308, Los Ángeles","contacto@penarolandino.cl","Alexis Aránguiz Díaz","A",20,"Estadio Santa Laura - Universidad SEK","Av. Independencia 667, Independencia, Santiago",9500,"pasto natural"
+22,"60000154-K","Porto Alegre Andino","Av. Los Deportistas 373, Valparaíso","contacto@portoalegreandino.cl","Gavi Flores Mendoza","B",14,"Estadio Chinquihue","Av. Presidente Ibáñez 1400, Puerto Montt",14200,"pasto natural"
+22,"60000154-K","Porto Alegre Andino","Av. Los Deportistas 373, Valparaíso","contacto@portoalegreandino.cl","Gavi Flores Mendoza","B",16,"Estadio Fiscal de Punta Arenas","Av. Bulnes 1050, Punta Arenas",8000,"pasto sintético"
+22,"60000154-K","Porto Alegre Andino","Av. Los Deportistas 373, Valparaíso","contacto@portoalegreandino.cl","Gavi Flores Mendoza","B",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+22,"60000154-K","Porto Alegre Andino","Av. Los Deportistas 373, Valparaíso","contacto@portoalegreandino.cl","Gavi Flores Mendoza","B",4,"Estadio Luis Valenzuela Hermosilla","Av. Circunvalación 1200, Copiapó",12000,"pasto natural"
+22,"60000154-K","Porto Alegre Andino","Av. Los Deportistas 373, Valparaíso","contacto@portoalegreandino.cl","Gavi Flores Mendoza","B",10,"Estadio Nelson Oyarzún Arenas","Av. Collín 1250, Chillán",10000,"pasto natural"
+22,"60000154-K","Porto Alegre Andino","Av. Los Deportistas 373, Valparaíso","contacto@portoalegreandino.cl","Gavi Flores Mendoza","B",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+35,"60000245-7","PSV Cordillera","Av. Los Deportistas 542, Osorno","contacto@psvcordillera.cl","Carlos Neuer Riquelme","B",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+35,"60000245-7","PSV Cordillera","Av. Los Deportistas 542, Osorno","contacto@psvcordillera.cl","Carlos Neuer Riquelme","B",5,"Estadio La Portada","Av. Amunátegui 1350, La Serena",20624,"pasto natural"
+35,"60000245-7","PSV Cordillera","Av. Los Deportistas 542, Osorno","contacto@psvcordillera.cl","Carlos Neuer Riquelme","B",13,"Estadio Parque Municipal de Valdivia","Av. Ramón Picarte 1200, Valdivia",8000,"pasto sintético"
+35,"60000245-7","PSV Cordillera","Av. Los Deportistas 542, Osorno","contacto@psvcordillera.cl","Carlos Neuer Riquelme","B",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+35,"60000245-7","PSV Cordillera","Av. Los Deportistas 542, Osorno","contacto@psvcordillera.cl","Carlos Neuer Riquelme","B",20,"Estadio Santa Laura - Universidad SEK","Av. Independencia 667, Independencia, Santiago",9500,"pasto natural"
+31,"60000217-1","Rangers del Sur","Av. Los Deportistas 490, Puerto Montt","contacto@rangersdelsur.cl","Mauricio Gutiérrez Espinoza","B",11,"Estadio Ester Roa Rebolledo","Av. Roosevelt 1900, Concepción",25000,"pasto natural"
+31,"60000217-1","Rangers del Sur","Av. Los Deportistas 490, Puerto Montt","contacto@rangersdelsur.cl","Mauricio Gutiérrez Espinoza","B",12,"Estadio Germán Becker","Av. Alemania 0660, Temuco",18000,"pasto natural"
+31,"60000217-1","Rangers del Sur","Av. Los Deportistas 490, Puerto Montt","contacto@rangersdelsur.cl","Mauricio Gutiérrez Espinoza","B",13,"Estadio Parque Municipal de Valdivia","Av. Ramón Picarte 1200, Valdivia",8000,"pasto sintético"
+31,"60000217-1","Rangers del Sur","Av. Los Deportistas 490, Puerto Montt","contacto@rangersdelsur.cl","Mauricio Gutiérrez Espinoza","B",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+16,"60000112-4","River Plateado","Av. Los Deportistas 295, Curicó","contacto@riverplateado.cl","Kylian Vásquez Sánchez","A",16,"Estadio Fiscal de Punta Arenas","Av. Bulnes 1050, Punta Arenas",8000,"pasto sintético"
+16,"60000112-4","River Plateado","Av. Los Deportistas 295, Curicó","contacto@riverplateado.cl","Kylian Vásquez Sánchez","A",12,"Estadio Germán Becker","Av. Alemania 0660, Temuco",18000,"pasto natural"
+16,"60000112-4","River Plateado","Av. Los Deportistas 295, Curicó","contacto@riverplateado.cl","Kylian Vásquez Sánchez","A",15,"Estadio Regional de Coyhaique","Av. Baquedano 500, Coyhaique",5000,"pasto sintético"
+16,"60000112-4","River Plateado","Av. Los Deportistas 295, Curicó","contacto@riverplateado.cl","Kylian Vásquez Sánchez","A",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+18,"60000126-4","Santos Laguna Chico","Av. Los Deportistas 321, Coyhaique","contacto@santoslagunachico.cl","Santiago Arias Álvarez","A",14,"Estadio Chinquihue","Av. Presidente Ibáñez 1400, Puerto Montt",14200,"pasto natural"
+18,"60000126-4","Santos Laguna Chico","Av. Los Deportistas 321, Coyhaique","contacto@santoslagunachico.cl","Santiago Arias Álvarez","A",16,"Estadio Fiscal de Punta Arenas","Av. Bulnes 1050, Punta Arenas",8000,"pasto sintético"
+18,"60000126-4","Santos Laguna Chico","Av. Los Deportistas 321, Coyhaique","contacto@santoslagunachico.cl","Santiago Arias Álvarez","A",7,"Estadio Nacional Julio Martínez Prádanos","Av. Grecia 2001, Ñuñoa, Santiago",48665,"pasto natural"
+18,"60000126-4","Santos Laguna Chico","Av. Los Deportistas 321, Coyhaique","contacto@santoslagunachico.cl","Santiago Arias Álvarez","A",13,"Estadio Parque Municipal de Valdivia","Av. Ramón Picarte 1200, Valdivia",8000,"pasto sintético"
+18,"60000126-4","Santos Laguna Chico","Av. Los Deportistas 321, Coyhaique","contacto@santoslagunachico.cl","Santiago Arias Álvarez","A",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+18,"60000126-4","Santos Laguna Chico","Av. Los Deportistas 321, Coyhaique","contacto@santoslagunachico.cl","Santiago Arias Álvarez","A",20,"Estadio Santa Laura - Universidad SEK","Av. Independencia 667, Independencia, Santiago",9500,"pasto natural"
+24,"60000168-K","Sevílla Norte","Av. Los Deportistas 399, La Serena","contacto@sevillanorte.cl","Ronaldo Rojas Messi","B",6,"Estadio Elías Figueroa Brander","Subida Cerro Placeres 2050, Valparaíso",22000,"pasto natural"
+24,"60000168-K","Sevílla Norte","Av. Los Deportistas 399, La Serena","contacto@sevillanorte.cl","Ronaldo Rojas Messi","B",16,"Estadio Fiscal de Punta Arenas","Av. Bulnes 1050, Punta Arenas",8000,"pasto sintético"
+24,"60000168-K","Sevílla Norte","Av. Los Deportistas 399, La Serena","contacto@sevillanorte.cl","Ronaldo Rojas Messi","B",9,"Estadio Fiscal de Talca","2 Norte 1450, Talca",12000,"pasto natural"
+24,"60000168-K","Sevílla Norte","Av. Los Deportistas 399, La Serena","contacto@sevillanorte.cl","Ronaldo Rojas Messi","B",10,"Estadio Nelson Oyarzún Arenas","Av. Collín 1250, Chillán",10000,"pasto natural"
+29,"60000203-1","Shakhtiar Minero","Av. Los Deportistas 464, Chillán","contacto@shakhtiarminero.cl","Cristopher Martínez Jara","B",8,"Estadio El Teniente","Av. Cachapoal 950, Rancagua",14000,"pasto natural"
+29,"60000203-1","Shakhtiar Minero","Av. Los Deportistas 464, Chillán","contacto@shakhtiarminero.cl","Cristopher Martínez Jara","B",11,"Estadio Ester Roa Rebolledo","Av. Roosevelt 1900, Concepción",25000,"pasto natural"
+29,"60000203-1","Shakhtiar Minero","Av. Los Deportistas 464, Chillán","contacto@shakhtiarminero.cl","Cristopher Martínez Jara","B",4,"Estadio Luis Valenzuela Hermosilla","Av. Circunvalación 1200, Copiapó",12000,"pasto natural"
+29,"60000203-1","Shakhtiar Minero","Av. Los Deportistas 464, Chillán","contacto@shakhtiarminero.cl","Cristopher Martínez Jara","B",10,"Estadio Nelson Oyarzún Arenas","Av. Collín 1250, Chillán",10000,"pasto natural"
+39,"60000273-2","Spártak Cordillerano","Av. Los Deportistas 594, Punta Arenas","contacto@spartakcordillerano.cl","Daniel Rivera Gutiérrez","B",11,"Estadio Ester Roa Rebolledo","Av. Roosevelt 1900, Concepción",25000,"pasto natural"
+39,"60000273-2","Spártak Cordillerano","Av. Los Deportistas 594, Punta Arenas","contacto@spartakcordillerano.cl","Daniel Rivera Gutiérrez","B",18,"Estadio La Ruca","Av. Pedro Fontova 4001, Huechuraba, Santiago",3500,"pasto natural"
+39,"60000273-2","Spártak Cordillerano","Av. Los Deportistas 594, Punta Arenas","contacto@spartakcordillerano.cl","Daniel Rivera Gutiérrez","B",10,"Estadio Nelson Oyarzún Arenas","Av. Collín 1250, Chillán",10000,"pasto natural"
+39,"60000273-2","Spártak Cordillerano","Av. Los Deportistas 594, Punta Arenas","contacto@spartakcordillerano.cl","Daniel Rivera Gutiérrez","B",15,"Estadio Regional de Coyhaique","Av. Baquedano 500, Coyhaique",5000,"pasto sintético"
+39,"60000273-2","Spártak Cordillerano","Av. Los Deportistas 594, Punta Arenas","contacto@spartakcordillerano.cl","Daniel Rivera Gutiérrez","B",17,"Estadio San Carlos de Apoquindo","Av. Las Flores 13.400, Las Condes, Santiago",20000,"pasto natural"
+14,"60000098-5","Tottenham Costero","Av. Los Deportistas 269, Copiapó","contacto@tottenhamcostero.cl","Rodrigo Zidane Díaz","A",14,"Estadio Chinquihue","Av. Presidente Ibáñez 1400, Puerto Montt",14200,"pasto natural"
+14,"60000098-5","Tottenham Costero","Av. Los Deportistas 269, Copiapó","contacto@tottenhamcostero.cl","Rodrigo Zidane Díaz","A",12,"Estadio Germán Becker","Av. Alemania 0660, Temuco",18000,"pasto natural"
+14,"60000098-5","Tottenham Costero","Av. Los Deportistas 269, Copiapó","contacto@tottenhamcostero.cl","Rodrigo Zidane Díaz","A",4,"Estadio Luis Valenzuela Hermosilla","Av. Circunvalación 1200, Copiapó",12000,"pasto natural"
+14,"60000098-5","Tottenham Costero","Av. Los Deportistas 269, Copiapó","contacto@tottenhamcostero.cl","Rodrigo Zidane Díaz","A",2,"Estadio Tierra de Campeones","Av. Balmaceda 1300, Iquique",12000,"pasto natural"
+28,"60000196-5","Zenit del Cobre","Av. Los Deportistas 451, Talca","contacto@zenitdelcobre.cl","Hernán Yamal Torres","B",11,"Estadio Ester Roa Rebolledo","Av. Roosevelt 1900, Concepción",25000,"pasto natural"
+28,"60000196-5","Zenit del Cobre","Av. Los Deportistas 451, Talca","contacto@zenitdelcobre.cl","Hernán Yamal Torres","B",16,"Estadio Fiscal de Punta Arenas","Av. Bulnes 1050, Punta Arenas",8000,"pasto sintético"
+28,"60000196-5","Zenit del Cobre","Av. Los Deportistas 451, Talca","contacto@zenitdelcobre.cl","Hernán Yamal Torres","B",10,"Estadio Nelson Oyarzún Arenas","Av. Collín 1250, Chillán",10000,"pasto natural"
+28,"60000196-5","Zenit del Cobre","Av. Los Deportistas 451, Talca","contacto@zenitdelcobre.cl","Hernán Yamal Torres","B",3,"Estadio Regional Calvo y Bascuñán","Av. Argentina 1800, Antofagasta",16380,"pasto natural"
